@@ -1,0 +1,365 @@
+पैट्रिक को कॉल में जोड़ लो	IN:UPDATE_CALL
+केली को कॉल में जोड़ें	IN:UPDATE_CALL
+ब्लेक को कॉल से निकालें	IN:UPDATE_CALL
+दोस्त को कॉल में जोड़ें	IN:UPDATE_CALL
+सैली को कॉल से निकालें	IN:UPDATE_CALL
+मेझे दोपहर में याद करा देना	IN:CREATE_ALARM
+कृपया मुझे दोपहर 12 बजे जगा दें	IN:CREATE_ALARM
+"""5 मई के लिए एक अलार्म सेट करें और उसे """"जन्मदिन"""" कहें।"""	IN:CREATE_ALARM
+कल दोपहर के लिए एक एक्सरसाइज अलार्म बनाओ	IN:CREATE_ALARM
+सभी अलार्म्स को ऑन कर दो।	IN:CREATE_ALARM
+क्या गुरुवार को बारिश होगी	IN:GET_WEATHER
+क्या मैं कुछ सनब्लॉक ले आओ?	IN:GET_WEATHER
+क्या मुझे बरसाती जैकेट लेना चाहिए?	IN:GET_WEATHER
+क्या तूफान का पूर्वानुमान लगाया गया है	IN:GET_WEATHER
+जब मैं शाम 6 बजे पहुंचूंगा क्या तब बारिश होगी	IN:GET_WEATHER
+मेरे पिताजी के मित्र कौन हैं	IN:GET_CONTACT
+ब्रेअना कार्लसन का भाई कौन है ?	IN:GET_CONTACT
+नेट के दोस्त	IN:GET_CONTACT
+क्या मिसिसिप्पी में मेरे दोस्त हैं?	IN:GET_CONTACT
+साराह की मित्र मिस्टी कौन है	IN:GET_CONTACT
+क्विल्टिंग के साथ कॉल	IN:CREATE_CALL
+सु को फ़ोन	IN:CREATE_CALL
+देखें कि क्या डेलोरेस अभी जवाब देंगे	IN:CREATE_CALL
+मेरे लिए ट्रेविस माइकल जैकबसन को कॉल लगाओ।	IN:CREATE_CALL
+चलो, जेन ऑस्टिन जूथी को फ़ोन लगाते हैं	IN:CREATE_CALL
+क्या जेनिस पेमब्रोक पाइंस में काम करती है?	IN:GET_LOCATION
+क्या रीटा लंदन में काम करती है?	IN:GET_LOCATION
+मिला क्यूनिस का जन्म किस देश में हुआ था?	IN:GET_LOCATION
+क्या मिगुएल अब भी अर्कांसस में रह रहा है	IN:GET_LOCATION
+ली के दफ़्तर का पता क्या है?	IN:GET_LOCATION
+मुझे बताओ दूसरा ईवेंट कब शूरु हो रहा है	IN:GET_DATE_TIME_EVENT
+मुझे बताएं की दूसरा इवेंट कब शुरू होगा	IN:GET_DATE_TIME_EVENT
+क्या मेरे किसी दोस्त ने डेबरा मेस्सिंग के साथ की शाम के लिए बुलावे को हाँ कहा है?	IN:GET_ATTENDEE_EVENT
+क्या मैं किसी को जानता हूं जो ब्रेक्सिट: आगे क्या होगा? जा रहा है?	IN:GET_ATTENDEE_EVENT
+क्या मेरे दोस्तों में से कोई GeekCraft Expo में जा रहा है?	IN:GET_ATTENDEE_EVENT
+होकस पोकस किस प्रकार की ईवेंट है?	IN:GET_CATEGORY_EVENT
+ब्रायसन को वीडियो संदेश भेजें	IN:SEND_MESSAGE
+ए मैथ्यूज को वीडियो मैसेज भेजें	IN:SEND_MESSAGE
+कैलिओपी के लिए वीडियो रिकॉर्डिंग छोड़ दें	IN:SEND_MESSAGE
+ब्लेक को वीडियो मैसेज भेजो	IN:SEND_MESSAGE
+माँ को अंडे खरीदने के लिए संदेश भेजें	IN:SEND_MESSAGE
+कोलोराडो में सूर्यास्त कितने बजे होता है	IN:GET_SUNSET
+आज रात सूर्यास्त कितने बजे होगा	IN:GET_SUNSET
+मुझे वह समय बताएं जब अंधेरा होना शुरू हो जाएगा	IN:GET_SUNSET
+6 फरवरी को सूर्यास्त का क्या समय है	IN:GET_SUNSET
+फिली में सूर्यास्त किस समय होगा	IN:GET_SUNSET
+वीडियो कॉल को अभी रोकें	IN:HOLD_CALL
+रवि के साथ कॉल को होल्ड करो	IN:HOLD_CALL
+कृपया मौजूदा कॉल को होल्ड करें	IN:HOLD_CALL
+इस कॉल को रोकें	IN:HOLD_CALL
+क्या तुम कॉल को होल्ड पे रख सकते हो	IN:HOLD_CALL
+शॉन के कॉल को काट दो	IN:END_CALL
+कॉल काटें	IN:END_CALL
+सवाना स्टाच्युरा का कॉल काटें	IN:END_CALL
+कॉल रोको	IN:END_CALL
+कॉल बंद	IN:END_CALL
+मैं बहुत व्यस्त हूँ	IN:SET_UNAVAILABLE
+कृपया मेरी उपलब्धता को ऑफ़लाइन पर सेट करें	IN:SET_UNAVAILABLE
+मैं उपलब्ध नहीं हूँ।	IN:SET_UNAVAILABLE
+मुझे अनुपलब्ध पर सेट करें	IN:SET_UNAVAILABLE
+मैं अभी उपलब्ध नहीं हूँ	IN:SET_UNAVAILABLE
+क्या किसी ने फ़ोन किया?	IN:GET_CALL
+मैंने लैरी से कितने कॉल रिसीव किए	IN:GET_CALL
+कल की मेरी मिस्ड कॉल कौन सी थी?	IN:GET_CALL
+क्या मेरी बीवी का कोई कॉल आया था	IN:GET_CALL
+मुझे बताओ कि आज सुबह मेरी कौन-सी कॉल छूट गई	IN:GET_CALL
+ऑली ने मुझे किस समय वीडियो कॉल किया?	IN:GET_CALL_TIME
+अंतिम कॉल किस समय किया गया था?	IN:GET_CALL_TIME
+कल ओलिविया ने मुझे किस समय कॉल किया था?	IN:GET_CALL_TIME
+आज जॉन की कॉल किस समय आई थी?	IN:GET_CALL_TIME
+मुझे मेरी पिछली मिस्ड कॉल का समय बताओ	IN:GET_CALL_TIME
+अभी स्नूज़ करें	IN:SNOOZE_ALARM
+बाद तक स्नूज़ करें	IN:SNOOZE_ALARM
+बस 2 मिनट और	IN:SNOOZE_ALARM
+लगे हुए अलार्म को सुबह 7:15 तक स्नूज़ करो।	IN:SNOOZE_ALARM
+वर्क अलार्म को स्नूज़ करें.	IN:SNOOZE_ALARM
+ठीक है, ठीक है, मैं उठ गया	IN:SILENCE_ALARM
+कृपया शांत रहें।	IN:SILENCE_ALARM
+ये आवाज़ निकालना बंद करो	IN:SILENCE_ALARM
+शोर करना बंद करें	IN:SILENCE_ALARM
+मैं अपना अलार्म रीसेट करना चाहता हूँ।	IN:SILENCE_ALARM
+मुझे याद कराओ मेरे कौन कौन से अलर्म हैं	IN:GET_ALARM
+मैं वह सारे अलार्म देखना चाहता हूँ जो मैंने अभी सेट किए हैं/ मैं वह सारे अलार्म देखना चाहती हूँ जो मैंने अभी सेट किए हैं	IN:GET_ALARM
+मैंने कौनसे अलार्म सेट कर रखे हैं?	IN:GET_ALARM
+मुझे सोमवार के लिए सेट किए गए अलार्म दिखाएँ.	IN:GET_ALARM
+क्या मैंने कोई अलार्म सेट कर रखा है	IN:GET_ALARM
+मेरे संदेश दिखाओ	IN:GET_MESSAGE
+संदेश दिखाएं	IN:GET_MESSAGE
+मेसी ने मुझे मैसेज किया था?	IN:GET_MESSAGE
+मेरे दोस्त के वीडियो मैसेज निकालें	IN:GET_MESSAGE
+मुझे मेरी दादी मर्लिन के मैसेज दिखाएं	IN:GET_MESSAGE
+आखरी अलार्म को डिलीट करो	IN:DELETE_ALARM
+सिस्टम का हर एक अलार्म कैंसल करें।	IN:DELETE_ALARM
+केवल पहला अलार्म हटाएँ	IN:DELETE_ALARM
+क्या आप मेरे सभी अलार्म कैंसल कर सकते हैं?	IN:DELETE_ALARM
+आज के अलार्मों को मिटा दें	IN:DELETE_ALARM
+फ़ोन कॉल खोलें	IN:ANSWER_CALL
+मुझे एमी के साथ यह वीडियो कॉल करने दीजिए	IN:ANSWER_CALL
+कॉल तब उठाना जब वो कालेब हो	IN:ANSWER_CALL
+आने वाली वीडियो कॉल का जवाब दें	IN:ANSWER_CALL
+नई कॉल का जवाब दें	IN:ANSWER_CALL
+मैं विडियो कॉल का उपयोग करना चाहता हूं कृपया	IN:UPDATE_METHOD_CALL
+मैं कॉल को वीडियो कॉल पर सेट करना चाहता हूँ	IN:UPDATE_METHOD_CALL
+वॉयस कॉल चालू है	IN:UPDATE_METHOD_CALL
+क्या आप वीडियो कॉल सक्षम कर सकते हैं	IN:UPDATE_METHOD_CALL
+केवल वीडियो कॉल करें	IN:UPDATE_METHOD_CALL
+मुझे कुछ रॉक संगीत सुनाएं	IN:PLAY_MUSIC
+मेरे लिए कुछ पॉप म्यूज़िक ढूँढें.	IN:PLAY_MUSIC
+मौजूदा रैप संगीत	IN:PLAY_MUSIC
+या बी गीस का कुछ	IN:PLAY_MUSIC
+केवल रिचर्ड चीज़ के गाने ढूँढ़ो।	IN:PLAY_MUSIC
+जून में कौन से वॉलीबॉल मैच होने वाले हैं	IN:GET_EVENT
+क्या मार्च में कोई टेनिस का गेम है	IN:GET_EVENT
+बैरन काउंटी में काउंटी मेला कब लगता है	IN:GET_EVENT
+सुबह घूमने के स्थान	IN:GET_EVENT
+मुझे 2018 में होने वाले संगीत समारोहों की तारीखें दिखाएं	IN:GET_EVENT
+काम के बाद बच्चों को लाना याद दिलाएं	IN:CREATE_REMINDER
+मुझे याद दिलाएं कि पिताजी एसी यूनिट देखने के लिए आ रहे हैं।	IN:CREATE_REMINDER
+फ्राइडे को मुझे कूपन्स लेना याद करा देना।	IN:CREATE_REMINDER
+मुझे याद दिलाना कि सोमवार को माँ की दवाई लानी है	IN:CREATE_REMINDER
+मुझे फुटबॉल खेलना याद दिलाएं	IN:CREATE_REMINDER
+बुधवार की डिबेट क्लब मीटिंग से जुड़े सभी अलर्ट को अनदेखा करें.	IN:DELETE_REMINDER
+मुझे मई में एमर्सन के बर्थडे के रिमाइंडर्स अब नहीं चाहिए।	IN:DELETE_REMINDER
+क्या आप अगले सप्ताह मिशल के जन्मदिन की पार्टी का अनुस्मारक हटा सकते है?	IN:DELETE_REMINDER
+पानी के बिल का भुगतान करने के लिए मेरे अनुस्मारक को हटा दें	IN:DELETE_REMINDER
+कृपया इस महीने शुक्रवार को दोपहर 1 बजे लंच के सभी अनुस्मारक हटा दें।	IN:DELETE_REMINDER
+मुझे फ्री लोग दिखाएँ	IN:GET_AVAILABILITY
+कौन खाली है	IN:GET_AVAILABILITY
+दिखाओ कौन बात कर सकता है	IN:GET_AVAILABILITY
+कौन मौज कर रहा है दिखाओ मुझे	IN:GET_AVAILABILITY
+क्या कोई व्यस्त नहीं है	IN:GET_AVAILABILITY
+क्या आपके पास कल मेरे परीक्षण के लिए एक अनुस्मारक सेट है?	IN:GET_REMINDER
+क्या आप मुझे याद दिला सकते हैं कि मुझे आज क्या करना था?	IN:GET_REMINDER
+मुझे मेरे एजेंडा में शामिल सभी बर्थडे दिखाओ	IN:GET_REMINDER
+मुझे अगले हफ़्ते की सारी चर्च सेवाएँ दिखाएँ	IN:GET_REMINDER
+मुझे मेरे अगले अलार्म के लिए एक अनुस्मारक दिखाएं।	IN:GET_REMINDER
+डॉक्टर से अपॉइंटमेंट के मेरे अलर्ट को 45 मिनट पहले के लिए सेट कर दें	IN:UPDATE_REMINDER_DATE_TIME
+मेरे लाइव स्ट्रीमिंग सेशन के रिमाइंडर को महीने के तीसरे गुरुवार को शाम को 4:49 बजे में बदलें	IN:UPDATE_REMINDER_DATE_TIME
+रीसाईकलिंग पिक का रिमाइंडर पिछली रात का कर दो	IN:UPDATE_REMINDER_DATE_TIME
+लाइब्रेरी बुक क्लब रिमाइंडर को 5 के बजाय शाम 7 बजे का करें	IN:UPDATE_REMINDER_DATE_TIME
+शेफ्स टेबल ग्रुप के रिमाइंडर को बदलकर 3 से 4 पर कर दें	IN:UPDATE_REMINDER_DATE_TIME
+अगले महीने हेअर अपॉइंटमेंट के लिए मेरे कितने रिमाइंडर हैं	IN:GET_REMINDER_AMOUNT
+मेरे पास कार्ल के लिए कितने रिमाइंडर हैं?	IN:GET_REMINDER_AMOUNT
+बच्चों की गतिविधियों के रिमाइंडर में फुटबाल जोड़ें	IN:UPDATE_REMINDER_TODO
+जो को ब्लॉक कर दो ताकि वो कभी दुबारा मुझे कॉल न कर सके	IN:IGNORE_CALL
+रात 11 बजे के बाद के सभी कॉल को नज़रंदाज़ कर दो	IN:IGNORE_CALL
+अनजान नंबर से आने वाली इस कॉल को अनदेखा करें	IN:IGNORE_CALL
+सभी कॉल नज़रअंदाज कर दो	IN:IGNORE_CALL
+बस इसका जवाब ना दें	IN:IGNORE_CALL
+जल्दी से कॉल स्विच करें।	IN:SWITCH_CALL
+क्या आप कॉल स्विच कर सकते हैं?	IN:SWITCH_CALL
+कॉल्स को स्विच करो ताकि मैं आने वाली कॉल का जवाब दे सकूँ	IN:SWITCH_CALL
+कॉल को अब स्विच करो	IN:SWITCH_CALL
+अभी कॉल स्विच करें	IN:SWITCH_CALL
+क्या आप मेरे सभी गानों को दोहराना रोक सकते हैं	IN:REPEAT_ALL_OFF_MUSIC
+इस गाने के लिए थम्स डाउन वोट करो	IN:DISLIKE_MUSIC
+यह गाना स्पॉटिफाई के उन गानों में से एक है जिससे मुझे नफरत है	IN:DISLIKE_MUSIC
+मुझे यह गाना पसंद नहीं है।	IN:DISLIKE_MUSIC
+ये गाना कौन से साल में रिकॉर्ड किया गया था?	IN:GET_TRACK_INFO_MUSIC
+पिछला गाना किसने गाया था?	IN:GET_TRACK_INFO_MUSIC
+इस गाने को क्या कहते हैं?	IN:GET_TRACK_INFO_MUSIC
+यह संस्करण कौन गाता है	IN:GET_TRACK_INFO_MUSIC
+यह कौनसा गाना है?	IN:GET_TRACK_INFO_MUSIC
+क्या तुम पर्सी के ट्विटर को ढूंढ सकते हो?	IN:GET_CONTACT_METHOD
+क्या आपके पास जॉर्ज का ईमेल है?	IN:GET_CONTACT_METHOD
+कृपया मुझे ग्लेन स्मिथ का नंबर दो	IN:GET_CONTACT_METHOD
+जॉन का फ़ोन नंबर क्या है?	IN:GET_CONTACT_METHOD
+क्या कोरटनी कार्दशियन विवाहित है?	IN:GET_LIFE_EVENT
+ट्रेसी कौन है?	IN:GET_INFO_CONTACT
+एवा कौन है	IN:GET_INFO_CONTACT
+लीसा कौन है	IN:GET_INFO_CONTACT
+हेलेन कौन है?	IN:GET_INFO_CONTACT
+सैली कौन है?	IN:GET_INFO_CONTACT
+किम का मौजूदा नियोक्ता कौन है?	IN:GET_EMPLOYER
+रीगन का पिछला एंप्लॉयर कौन था?	IN:GET_EMPLOYER
+क्या वह यूनिवर्सिटी में पढ़ाती है	IN:GET_EMPLOYER
+क्या मैरी ने इससे पहले स्टारबक्स में काम किया है?	IN:GET_EMPLOYER
+जेम्स ने मैक में काम किया क्या इससे पहले?	IN:GET_EMPLOYER
+मॉर्क ने पिछले साल किसके लिए काम किया?	IN:GET_EMPLOYMENT_TIME
+बेन कितने वक्त से वॉलमार्ट का कर्मचारी है?	IN:GET_EMPLOYMENT_TIME
+केटी ने स्टूडेंट एडवाइजर के तौर पर UWM के लिए कब से काम शुरू किया है?	IN:GET_EMPLOYMENT_TIME
+स्टीवन हिबिस्कस होम्स के द्वारा कब से नियोजित है?	IN:GET_EMPLOYMENT_TIME
+मेरे पूर्व पति को तत्कालीन नौकरी कब मिली थी?	IN:GET_EMPLOYMENT_TIME
+क्या टॉम ने कभी भी मेडिसिन में डिग्री ली है?	IN:GET_EDUCATION_DEGREE
+साराह किस साल फ्लोरिडा स्टेट गई थी?	IN:GET_EDUCATION_TIME
+जैसी किन सालों में बार्टन गई थी?	IN:GET_EDUCATION_TIME
+कोरे को आर्मस्ट्रांग से अपनी डिग्री प्राप्त करने में कितने साल लगे?	IN:GET_EDUCATION_TIME
+जिमी एक्रोन विश्वविद्यालय में किन वर्षों में पढ़ता था	IN:GET_EDUCATION_TIME
+बर्निस स्टॉर ने किस साल प्रिंसटन में पढ़ाई की थी?	IN:GET_EDUCATION_TIME
+निक 30 साल का कब होगा?	IN:GET_AGE
+अपने अगले जन्मदिन पर रॉब कितने साल का हो जायेगा?	IN:GET_AGE
+अपने अगले जन्मदिन पर बिल कितने साल का हो जाएगा?	IN:GET_AGE
+मेरी माँ कितने साल की हैं?	IN:GET_AGE
+जिम कितने साल का है	IN:GET_AGE
+टेक्सास में फेमा ने मदद की कितनी	IN:GET_DETAILS_NEWS
+क्या कनाडा, अमेरिका और मैक्सिको के बीच बातचीत में कोई प्रगति हुई है?	IN:GET_DETAILS_NEWS
+ब्रेकिंग न्यूज़ देखें।	IN:GET_STORIES_NEWS
+मौजूदा ब्रेकिंग न्यूज़ क्या है?	IN:GET_STORIES_NEWS
+मुझे अशर की बीमारी की डिटेल्स दें।	IN:GET_STORIES_NEWS
+मुझे क़त्ल के स्थानीय मुकद्दमे का विवरण चाहिए	IN:GET_STORIES_NEWS
+चैनल 13 लाइव बजाएं	IN:GET_STORIES_NEWS
+मुझे ब्लूबेरी डच बेबी रेसिपी चाहिए	IN:GET_RECIPES
+मुझे फिलिपिनो रेसिपी दिखाएं	IN:GET_RECIPES
+मेरे लिए हैडॉक की सेहतमंद रेसिपी खोजें	IN:GET_RECIPES
+मुझे बुल्जोगी की रेसिपी दिखाएँ	IN:GET_RECIPES
+पिज्जा डो रेसिपी खोजें	IN:GET_RECIPES
+बुल्टप्रूफ़ कॉफ़ी क्या है	IN:GET_INFO_RECIPES
+कैलिफोर्निया रोल में क्या-क्या होता है	IN:GET_INFO_RECIPES
+रुबार्ब पाई में कौन कौन सी चीज़ें होती हैं	IN:GET_INFO_RECIPES
+एग्स बेनेडिक्ट में क्या-क्या होता है	IN:GET_INFO_RECIPES
+स्पगेटी सॉस में कौन कौन सी चीज़ें पड़ती हैं	IN:GET_INFO_RECIPES
+अंडों में प्रोटीन होता है क्या	IN:IS_TRUE_RECIPES
+क्या आप एप्पल पाइ के लिए कॉर्नस्टार्च उपयोग करते हैं	IN:IS_TRUE_RECIPES
+क्या पैड थाई में मूंगफलियाँ होती हैं	IN:IS_TRUE_RECIPES
+क्या टमाटर फल हैं	IN:IS_TRUE_RECIPES
+क्या इस रेसिपी में डेयरी उत्पाद शामिल है	IN:IS_TRUE_RECIPES
+क्या यह काम लगभग पूरा हो गया है	IN:GET_TIMER
+मेरा वक्त कब खत्म होगा?	IN:GET_TIMER
+यह उलटी गिनती कितनी बाकी है?	IN:GET_TIMER
+टाइमर का क्या कहना है?	IN:GET_TIMER
+क्या मेरा टाइमर लगभग पूरा हो गया है?	IN:GET_TIMER
+काउंटडाउन 30 सेकंड का है	IN:CREATE_TIMER
+कृपया 2 घंटे का समय सेट करें	IN:CREATE_TIMER
+8:05 पर टाइमर शुरू करें	IN:CREATE_TIMER
+मैं टाइमर को अब शुरू करना चाहता हूँ	IN:CREATE_TIMER
+पंद्रह मिनट के लिए समय शुरू करें।	IN:CREATE_TIMER
+फ्रांस में किस तरह की सरकार है	IN:QUESTION_NEWS
+क्या माइक्रोसॉफ्ट कोर्ट केस में कोई अपडेट है	IN:QUESTION_NEWS
+हालिया कार विस्फोट में  संदिग्ध कौन है?	IN:QUESTION_NEWS
+क्या पिछली रात को शिकागो में कोई हत्या हुई है?	IN:QUESTION_NEWS
+वेनेजुएला की मौजूदा अशांति का कारण क्या है?	IN:QUESTION_NEWS
+काउंटडाउन में 5 मिनट जोड़ें	IN:ADD_TIME_TIMER
+टाइमर में 1628 सेकंड बढ़ा दो	IN:ADD_TIME_TIMER
+कृपया इस टाइमर को तीन घंटे तक लंबा करें	IN:ADD_TIME_TIMER
+मेरे इनहेलर टाइमर में बारह मिनट जोड़ें	IN:ADD_TIME_TIMER
+मेरे टाइमर में आठ मिनट जोड़ो	IN:ADD_TIME_TIMER
+मेरे शाम 6 बजे के टाइमर को 1000 सेकंड कम करें	IN:UPDATE_TIMER
+टाइमर को बदलकर 60 मिनट का करें	IN:UPDATE_TIMER
+हेयर मास्क टाइमर बदलें	IN:UPDATE_TIMER
+टाइमर बदल कर 12 मिनट का करें	IN:UPDATE_TIMER
+मेरे वर्क टाइमर को वक्त से पहले खत्म करें।	IN:SUBTRACT_TIME_TIMER
+वर्कआउट में से 10 मिनट का टाइम कम कर दो	IN:SUBTRACT_TIME_TIMER
+पिछले टाइमर से 3 मिनट निकालें	IN:SUBTRACT_TIME_TIMER
+3 मिनट घटाएं	IN:SUBTRACT_TIME_TIMER
+मेरे टाइमर में से 30 सेकंड कम करें	IN:SUBTRACT_TIME_TIMER
+गाना रोको	IN:STOP_MUSIC
+म्यूज़िक रोकें	IN:STOP_MUSIC
+दस मिनट के लिए म्यूजिक बंद करें	IN:STOP_MUSIC
+इस संगीत को आधा बजने के बाद बंद कर दो	IN:STOP_MUSIC
+म्यूज़िक बजाना बंद करें	IN:STOP_MUSIC
+आखिरी गाना दोहराएं	IN:PREVIOUS_TRACK_MUSIC
+लूथर वांडरोस का पिछला गाना फिर से बजाओ।	IN:PREVIOUS_TRACK_MUSIC
+क्या मैं पिछला गाना एक बार फिर से सुन सकता हूँ?	IN:PREVIOUS_TRACK_MUSIC
+पिछले गाने पर लौटें	IN:PREVIOUS_TRACK_MUSIC
+कृपया, वह पिछला गाना फिर से चलाएं।	IN:PREVIOUS_TRACK_MUSIC
+टाइमर को वापस दस पर रीसेट करें	IN:RESTART_TIMER
+तत्कालीन टाइमर को रीसेट करो।	IN:RESTART_TIMER
+वर्तमान टाइमर को फिर से शुरू करें।	IN:RESTART_TIMER
+मेरे सारे टाइमर्स को वापिस एक मिनट कर दो	IN:RESTART_TIMER
+कृपया मेरा टाइमर फिर से शुरू करें	IN:RESTART_TIMER
+मुझे ये गाना फिर से बजाना है।	IN:REPLAY_MUSIC
+ट्रैक 8 फिर से बजाएं	IN:REPLAY_MUSIC
+प्लेलिस्ट दोहराएँ	IN:REPLAY_MUSIC
+क्या मैं वो गीत दोबारा सुन सकता हूँ?	IN:REPLAY_MUSIC
+वर्तमान गीत दोहराएं	IN:REPLAY_MUSIC
+फ्रेंड्स इन लो प्लेसेस को बार बार चलाएं	IN:LOOP_MUSIC
+इसे बार-बार बजाएं	IN:LOOP_MUSIC
+आज के मेरे सारे रिमाइंडर्स को डिलीट कर दो	IN:DELETE_TIMER
+वर्कआउट टाइमर हटाएं।	IN:DELETE_TIMER
+टाइमर अभी रोक दो	IN:DELETE_TIMER
+पिछले टाइमर को रद्द कर दें	IN:DELETE_TIMER
+सभी टाइमरों को हटा दें	IN:DELETE_TIMER
+एल्बम का पहला गाना छोड़ें	IN:SKIP_TRACK_MUSIC
+यह गाना छोड़ दें।	IN:SKIP_TRACK_MUSIC
+अगर डेस्पसीटो चल रहा होगा तो मैं उसे हटा दूंगा	IN:SKIP_TRACK_MUSIC
+मेरी प्लेलिस्ट का तीसरा गाना चला दो।	IN:SKIP_TRACK_MUSIC
+इसे छोड़कर 8वें गाने पर जाएँ।	IN:SKIP_TRACK_MUSIC
+समय को और 5 मिनट के लिए फिर से शुरू करें	IN:RESUME_TIMER
+टाइमर को 12 मिनट में दुबारा चालू कर देना	IN:RESUME_TIMER
+मेरा टाइमर वापस शुरू करें	IN:RESUME_TIMER
+अब टाइमर फिर से शुरू करें	IN:RESUME_TIMER
+टाइमर जारी रखें	IN:RESUME_TIMER
+मेरे गाली ना देने के टाइमर को फिलहाल रोकें।	IN:PAUSE_TIMER
+अभी के लिए वर्कआउट के टाइमर को बंद कर दें	IN:PAUSE_TIMER
+मैं टाइमर को रोकना चाहता हूँ	IN:PAUSE_TIMER
+प्लीज़ टाइमर को ज़रा पॉज़ कर दो	IN:PAUSE_TIMER
+पकाने के टाइमर को रोकें	IN:PAUSE_TIMER
+लिल याची द्वारा कोई भी गाना नहीं बजाना	IN:REMOVE_FROM_PLAYLIST_MUSIC
+उस आर्टिस्ट को दोबारा मत चलाना	IN:REMOVE_FROM_PLAYLIST_MUSIC
+इस गाने को दुबारा मत चलाना	IN:REMOVE_FROM_PLAYLIST_MUSIC
+इस गाने को दुबारा कभी मत चलाना	IN:REMOVE_FROM_PLAYLIST_MUSIC
+मैं अब और इस प्लेलिस्ट को नहीं सुनना चाहता हूँ	IN:DELETE_PLAYLIST_MUSIC
+क्या तुम मेरे अलार्म को आधे घंटे आगे कर सकते हो	IN:UPDATE_ALARM
+अलार्म में 30 सेकंड ऐड करें।	IN:UPDATE_ALARM
+मेरा दफ़्तर का अलार्म बदलकर सुबह 7 बजे का करें	IN:UPDATE_ALARM
+मैं अपने अलार्म को बदल कर दोपहर 3 बजे का करना चाहता हूँ।	IN:UPDATE_ALARM
+‘जिम’ नाम के सारे अलार्म को सुबह 6:30 बजे के लिए अपडेट कर दें	IN:UPDATE_ALARM
+पेनलोप क्रूज़ कौन-सी भाषा बोलती है?	IN:GET_LANGUAGE
+टेस्ट ऑफ सीएटल को हाँ कहें	IN:SET_RSVP_YES
+फिअर्स अर्जेंसी ऑफ नाउ फेस्टिवल में जा रहे हैं	IN:SET_RSVP_YES
+डायनासोर जूनियर जा रहे हैं	IN:SET_RSVP_YES
+इन्सर्जेंट एम्पायर बुक लॉन्च के लिए हाँ में जवाब दें	IN:SET_RSVP_YES
+मेरा स्टेटस बदल कर ऐन इवनिंग विद डेबरा मेसिंग के लिए जाना कर दें	IN:SET_RSVP_YES
+उस पहले ईवेंट को मालिया के साथ शेयर करें	IN:SHARE_EVENT
+मुझे यह पसंद है	IN:LIKE_MUSIC
+गाने के आखिरी 10 सेकंड फिर से चलाएँ	IN:REWIND_MUSIC
+पिछले मिनट को फिर से चलाओ।	IN:REWIND_MUSIC
+10 सेकंड के लिए वापस जाएँ	IN:REWIND_MUSIC
+मैं डायनासोर जूनियर में जाना चाहता हूँ।	IN:SET_RSVP_INTERESTED
+मेरा पम्पकिन्स इन द पार्क में जाने का मन कर सकता है	IN:SET_RSVP_INTERESTED
+दूसरे इवेंट के लिए मेरी स्थिति शायद निर्धारित करें	IN:SET_RSVP_INTERESTED
+नई साउंड लिस्ट बनाएँ	IN:CREATE_PLAYLIST_MUSIC
+कृपया एक गॉडस्मैक चैनल बनाओ	IN:CREATE_PLAYLIST_MUSIC
+कार्डियो नाम की एक प्लेलिस्ट बनाओ	IN:CREATE_PLAYLIST_MUSIC
+अभी वाले गाने को चलाओ	IN:RESUME_MUSIC
+यह गाना प्ले करना जारी रखें	IN:RESUME_MUSIC
+प्लेलिस्ट नवंबर में गाना जोड़ें	IN:ADD_TO_PLAYLIST_MUSIC
+मेरी जेम्स नाम की प्लेलिस्ट में  कान्ये वेस्ट का वेव्स गाना जोड़ें	IN:ADD_TO_PLAYLIST_MUSIC
+क्लेटन को वीडियो मैसेज भेजना कैंसल करें	IN:CANCEL_MESSAGE
+एल्सी को मैसेज भेजना छोड़ें	IN:CANCEL_MESSAGE
+मैकेंज़ी को वीडियो मैसेज भेजना बंद करें	IN:CANCEL_MESSAGE
+itunes को मुख्य म्यूज़िक प्रोवाइडर बनाएँ	IN:SET_DEFAULT_PROVIDER_MUSIC
+आइहार्टरेडियो को मेरा डिफ़ॉल्ट संगीत प्रदाता बनाएं	IN:SET_DEFAULT_PROVIDER_MUSIC
+कृपया मेरे म्यूज़िक प्रोवाइडर के रूप में टाइडल को चुनें	IN:SET_DEFAULT_PROVIDER_MUSIC
+मैं amazon को अपने डिफ़ॉल्ट म्यूजिक प्लेयर के तौर पर सेट करना चाहता हूँ	IN:SET_DEFAULT_PROVIDER_MUSIC
+म्युज़िक हमेशा अमेज़न म्युज़िक से ही चलाएँ	IN:SET_DEFAULT_PROVIDER_MUSIC
+मुझे कितने बजे अपने पति को दफ़्तर जाने के लिए याद दिलाना है?	IN:GET_REMINDER_DATE_TIME
+फ़ुटबॉल अभ्यास के लिए रिमाइंडर्स किस दिन के हैं?	IN:GET_REMINDER_DATE_TIME
+माँ की अपॉइंटमेंट वाला अलर्ट कब बंद होगा?	IN:GET_REMINDER_DATE_TIME
+फुटबॉल मैच के लिए मेरा अगला रिमाइंडर कब है	IN:GET_REMINDER_DATE_TIME
+माइकल जैक्सन की मौत कब हुई थी?	IN:GET_LIFE_EVENT_TIME
+प्रिंस की मौत कब हुई थी?	IN:GET_LIFE_EVENT_TIME
+सितंबर 17 को सूर्योदय कब होगा	IN:GET_SUNRISE
+गुरुवार को सूर्योदय कितने बजे होगा	IN:GET_SUNRISE
+हिलसाइड बार ट्रिविया नाईट में नहीं जा रहे	IN:SET_RSVP_NO
+मेरा स्टेटस सेट करें कि मैं इनसरजेंट एम्पायर बुक लॉन्च के लिए नहीं जा रहा हूँ	IN:SET_RSVP_NO
+मैं ब्रिककॉन नहीं जा रहा हूँ	IN:SET_RSVP_NO
+फिशरमैन्स फॉल फेस्टिवल में नहीं जा रहे हैं	IN:SET_RSVP_NO
+मुझे स्वीट टूथ पॉप-अप में नहीं जा रहा के तौर पर मार्क करें	IN:SET_RSVP_NO
+मैं फ्री हूँ यह शो करो	IN:SET_AVAILABLE
+मुझे ऑनलाइन दिखाएँ	IN:SET_AVAILABLE
+मुझे ऑनलाइन दिखाएं	IN:SET_AVAILABLE
+मैं इस वक़्त उपलब्ध हूँ	IN:SET_AVAILABLE
+प्लीज़ मेरी अवेलेबिलिटी को अब अवेलेबल पर सेट करें	IN:SET_AVAILABLE
+एक्सरसाइज़ रिमाइंडर का टाइम बदल दो	IN:UPDATE_REMINDER
+इस महीने की पूल लीग के लिए क्रिस को रिमाइंडरों में जोड़ें।	IN:UPDATE_REMINDER
+मुझे शॉपिंग करना पसंद है	IN:PREFER
+मुझे सैली के वे दोस्त दिखाएं जो मेरे भी दोस्त हैं	IN:GET_MUTUAL_FRIENDS
+डैरन और टॉड के दोस्तों को ढूँढ़ो	IN:GET_MUTUAL_FRIENDS
+मेरे और मिनी के साझा दोस्त दिखाएँ	IN:GET_MUTUAL_FRIENDS
+फास्ट फॉरवर्ड करके कोरस पर पहुँचें।	IN:FAST_FORWARD_MUSIC
+कृपया मुझे बताएं कि कौन कॉल कर रहा है	IN:GET_CALL_CONTACT
+क्या आप देख सकते हैं कि मुझे किसने कॉल किया?	IN:GET_CALL_CONTACT
+म्यूज़िक पॉज़ करें	IN:PAUSE_MUSIC
+शफ़ल करो	IN:START_SHUFFLE_MUSIC
+मेरा म्यूज़िक शफ़ल कर दो	IN:START_SHUFFLE_MUSIC
+मेरी सारी म्यूज़िक लाइब्रेरी को शफ़ल करो और चलाओ	IN:START_SHUFFLE_MUSIC
+पैंडोरा खोलो और माई ऐवरिथिंग (इटॉलियन ऐडिशन) शफ़ल पर चलाओ	IN:START_SHUFFLE_MUSIC
+क्रिस प्रैट यूके को खोजें	IN:PLAY_MEDIA
+क्या रोलिंग स्टोन्ज़ टूअर पर हैं?	IN:QUESTION_MUSIC
+टेलर स्विफ्ट का सबसे मशहूर गाना कौन-सा है	IN:QUESTION_MUSIC
+नीयो का सबसे नया गाना कौनसा है	IN:QUESTION_MUSIC
+क्या लिंडा ने UCLA से ग्रेजुएशन किया था?	IN:GET_UNDERGRAD
+क्या आज अब से पहले किसी ने मुझे वीडियो संदेश भेजा था?	IN:GET_MESSAGE_CONTACT
+परसों किसने मुझे वीडियो मैसेज किया?	IN:GET_MESSAGE_CONTACT

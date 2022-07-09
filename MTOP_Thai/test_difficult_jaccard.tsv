@@ -1,0 +1,369 @@
+สลับเพลง	IN:PLAY_MUSIC
+เล่นเพลงออกจากลำโพง	IN:PLAY_MUSIC
+เปลี่ยนช่อง	IN:PLAY_MUSIC
+เปลี่ยนช่อง	IN:PLAY_MUSIC
+เล่นเพลงลูกทุ่งร่วมสมัย	IN:PLAY_MUSIC
+โทรหาบรันช์	IN:CREATE_CALL
+โทรหาซู	IN:CREATE_CALL
+โทรหาคุณแม่	IN:CREATE_CALL
+โทรหาเดฟ	IN:CREATE_CALL
+โทรหาพนักงานบัญชี	IN:CREATE_CALL
+พายุโซนร้อนอยู่ที่ไหน	IN:GET_WEATHER
+สภาพอากาศวันอาทิตย์	IN:GET_WEATHER
+อุณหภูมิตอนนี้	IN:GET_WEATHER
+อุณหภูมิเซลเซียส	IN:GET_WEATHER
+อุณหภูมิเท่าไหร่	IN:GET_WEATHER
+ปิดการใช้งานนาฬิกาปลุก	IN:SILENCE_ALARM
+หยุดส่งเสียง	IN:SILENCE_ALARM
+ปิดนาฬิกาปลุกตอนนี้	IN:SILENCE_ALARM
+ปิดนาฬิกาปลุกทั้งหมด	IN:SILENCE_ALARM
+หยุดทำเสียงนี้ได้แล้ว	IN:SILENCE_ALARM
+ตั้งนาฬิกาปลุก	IN:CREATE_ALARM
+ตั้งการปลุกอื่น	IN:CREATE_ALARM
+ตั้งเสียงเตือน	IN:CREATE_ALARM
+ตั้งนาฬิกาปลุกสำหรับตีห้า	IN:CREATE_ALARM
+ตั้งการปลุกตอนนี้	IN:CREATE_ALARM
+ตั้งนาฬิกาปลุกหรือยัง	IN:GET_ALARM
+การเตือนของฉันตั้งขึ้นเมื่อใด	IN:GET_ALARM
+แสดงการเตือนในเวลากลางวันทั้งหมด	IN:GET_ALARM
+โปรดแสดงการแจ้งเตือนทั้งหมด	IN:GET_ALARM
+เหลือเวลาเท่าไรในนาฬิกาปลุก	IN:GET_ALARM
+ลบนาฬิกาปลุก	IN:DELETE_ALARM
+ยกเลิกนาฬิกาปลุก	IN:DELETE_ALARM
+ลบการเตือนล่าสุด	IN:DELETE_ALARM
+ลบการแจ้งเตือนของวันนี้	IN:DELETE_ALARM
+ลบนาฬิกาปลุกของฉันทั้งหมด	IN:DELETE_ALARM
+วางสายฌอน	IN:END_CALL
+วางสาย	IN:END_CALL
+วางหูกับแดเนียล	IN:END_CALL
+ตัดสายโทรศัพท์	IN:END_CALL
+วางสายโทรศัพท์	IN:END_CALL
+หยุดการโทรนี้ชั่วคราว	IN:HOLD_CALL
+ช่วยพักสายด้วย	IN:HOLD_CALL
+กรุณาถือสายรอตอนนี้	IN:HOLD_CALL
+พักสายกับ ravi	IN:HOLD_CALL
+เปิดการโทรศัพท์	IN:ANSWER_CALL
+รับโทรศัพท์	IN:ANSWER_CALL
+รับสายใหม่	IN:ANSWER_CALL
+รับสายพ่อเลี้ยงของฉัน	IN:ANSWER_CALL
+รับสายการโทรของจอร์แดน	IN:ANSWER_CALL
+เพิ่มลูกเลี้ยง	IN:UPDATE_CALL
+เชิญพ่อ	IN:UPDATE_CALL
+ตัดยายเจนออกจากสาย	IN:UPDATE_CALL
+ตัด Blake ออกจากสาย	IN:UPDATE_CALL
+สลับการโทรด้วยเสียงเป็นวิดีโอ	IN:UPDATE_CALL
+มายายังคงออฟไลน์ใช่ไหม?	IN:GET_AVAILABILITY
+ใครว่าง	IN:GET_AVAILABILITY
+ลงรายชื่อคนที่ว่าง	IN:GET_AVAILABILITY
+อุปกรณ์บอกว่ามีใครว่างบ้าง	IN:GET_AVAILABILITY
+อัลหรือเอมี่ออนไลน์ไหม	IN:GET_AVAILABILITY
+ฉันรับสายจากแลร์รีกี่สายแล้ว	IN:GET_CALL
+ผมได้รับโทรศัพท์จากภรรยาของผมไหม	IN:GET_CALL
+มีใครโทรมาไหม	IN:GET_CALL
+แสดงการโทรจาก mary ที่สำเร็จตั้งแต่วันศุกร์ที่แล้ว	IN:GET_CALL
+แสดงสายที่ไม่ได้รับของวันนี้	IN:GET_CALL
+สถานที่เยี่ยมชมในตอนเช้า	IN:GET_EVENT
+กิจกรรมวันนี้	IN:GET_EVENT
+มีคอนเสิร์ตที่ไหนบ้างคืนนี้	IN:GET_EVENT
+เกิดอะไรขึ้น	IN:GET_EVENT
+เกิดอะไรขึ้นในเบย์ไซด์	IN:GET_EVENT
+พนักงาน FBI	IN:GET_CONTACT
+เพื่อนของ Catherine	IN:GET_CONTACT
+ใครทำงานที่กระทรวงการคลัง	IN:GET_CONTACT
+ใครทำงานในจาการ์ตา	IN:GET_CONTACT
+เพื่อนของ Nate	IN:GET_CONTACT
+เตือนให้ฉันปิดประตู	IN:CREATE_REMINDER
+เตือนความจำใหม่	IN:CREATE_REMINDER
+เตือนฉันให้ซื้อผลไม้	IN:CREATE_REMINDER
+ตั้งการเตือนความจำ	IN:CREATE_REMINDER
+เตือนฉันให้ซื้อตลับหมึก	IN:CREATE_REMINDER
+เช็คข้อความ	IN:GET_MESSAGE
+อ่านข้อความ	IN:GET_MESSAGE
+แสดงข้อความ	IN:GET_MESSAGE
+ข้อความของเดฟเมื่อเช้านี้บอกว่าอย่างไรบ้าง?	IN:GET_MESSAGE
+แสดงข้อความจากพ่อดาห์เลีย	IN:GET_MESSAGE
+ฉันยุ่งมาก	IN:SET_UNAVAILABLE
+ฉันไม่ว่าง	IN:SET_UNAVAILABLE
+ฉันจะไม่ว่างในอีกหนึ่งชั่วโมง	IN:SET_UNAVAILABLE
+ทำเครื่องหมายว่าฉันไม่พร้อม	IN:SET_UNAVAILABLE
+ตั้งค่าฉันเป็นไม่ว่าง	IN:SET_UNAVAILABLE
+ฉันว่าง	IN:SET_AVAILABLE
+ตอนนี้ฉันว่าง	IN:SET_AVAILABLE
+แสดงว่าฉันว่าง	IN:SET_AVAILABLE
+ฉันว่างและยินดีต้อนรับ	IN:SET_AVAILABLE
+แสดงให้เห็นว่าฉันออนไลน์อยู่	IN:SET_AVAILABLE
+สลับสายตอนนี้	IN:SWITCH_CALL
+ช่วยสลับสายได้ไหม	IN:SWITCH_CALL
+หยุดชั่วคราวและสลับสาย	IN:SWITCH_CALL
+สลับเป็นสายถัดไป	IN:SWITCH_CALL
+สลับสายการโทรตอนนี้	IN:SWITCH_CALL
+ส่งข้อความวิดีโอ	IN:SEND_MESSAGE
+อยากส่งวิดีโอ	IN:SEND_MESSAGE
+ตอบกลับกระทู้เค้กด้วยข้อความ	IN:SEND_MESSAGE
+ส่งวิดีโอไปให้ชาร์ลี	IN:SEND_MESSAGE
+ตอบกลับกลุ่มสมาชิกกิลด์ด้วยข้อความ	IN:SEND_MESSAGE
+พาดหัวข่าว	IN:GET_STORIES_NEWS
+แสดงข่าวการเมือง	IN:GET_STORIES_NEWS
+ข่าวไฟไหม้	IN:GET_STORIES_NEWS
+อ่านข่าวท้องถิ่น	IN:GET_STORIES_NEWS
+ข่าวประจำวัน	IN:GET_STORIES_NEWS
+การเตือนความจำเกี่ยวกับการบ้าน	IN:GET_REMINDER
+แสดงเตือนความจำเรื่องคืนดูหนัง	IN:GET_REMINDER
+แสดงการแจ้งเตือนทั้งหมดสําหรับชั้นเรียนโยคะของฉัน	IN:GET_REMINDER
+ค้นหาการเตือนความจำของฉันสำหรับโทรกลับ	IN:GET_REMINDER
+แสดงเตือนความจำทั้งหมดสำหรับวันเสาร์	IN:GET_REMINDER
+ลบการเตือนให้อ่านหนังสือ	IN:DELETE_REMINDER
+ลบการแจ้งเตือนตอนสองทุ่ม	IN:DELETE_REMINDER
+ลบการเตือนความจำนั้น	IN:DELETE_REMINDER
+ยกเลิกเตือนความจำของฉัน	IN:DELETE_REMINDER
+ยกเลิกการเตือนความจำสำหรับการซักผ้าคืนนี้	IN:DELETE_REMINDER
+ช่วยยกเลิกการเตือนความจำเกี่ยวกับปาร์ตี้หน่อย	IN:HELP_REMINDER
+ฉันมีเตือนความจำเรื่องนัดทำผมกี่รายการในเดือนหน้า	IN:GET_REMINDER_AMOUNT
+มีการแจ้งเตือนเรื่องดินเนอร์ที่ตั้งไว้กี่อันสำหรับเดือนหน้า	IN:GET_REMINDER_AMOUNT
+ฉันมีการเตือนความจำสำหรับคาร์ลกี่ครั้ง?	IN:GET_REMINDER_AMOUNT
+สัปดาห์นี้ฉันมีการเตือนความจำกี่ครั้ง?	IN:GET_REMINDER_AMOUNT
+เปลี่ยนการเตือนความจำสำหรับการเก็บขยะรีไซเคิลเป็นคืนก่อนหน้า	IN:UPDATE_REMINDER_DATE_TIME
+เปลี่ยนเตือนความจำของฉันสำหรับโซนเวลาตะวันออก	IN:UPDATE_REMINDER_DATE_TIME
+แสดงเตือนความจำฉันเรื่องงานสัมมนาในเวลามาตรฐานตอนกลางแทนเวลามาตรฐานตะวันออก	IN:UPDATE_REMINDER_DATE_TIME
+เปลี่ยนเตือนความจำการกวาดถนนของฉันเป็น 10.00 น.	IN:UPDATE_REMINDER_DATE_TIME
+โปรดจัดกำหนดการการแจ้งเตือนชาหมักคอมบูชาของฉันใหม่จากช่วงเช้าเป็นช่วงบ่าย	IN:UPDATE_REMINDER_DATE_TIME
+เมื่อไหร่เสียงปลุกสำหรับนัดของแม่จะหยุดดัง	IN:GET_REMINDER_DATE_TIME
+การเตือนความจำสำหรับฝึกซ้อมฟุตบอลมีวันที่เท่าไรบ้าง	IN:GET_REMINDER_DATE_TIME
+การเตือนเกมแข่งฟุตบอลครั้งต่อไปของฉันคือเมื่อไหร่	IN:GET_REMINDER_DATE_TIME
+ควรเตือนสามีของฉันให้ออกจากงานของเขาในเวลากี่โมง?	IN:GET_REMINDER_DATE_TIME
+การแจ้งเตือนของฉันไปเอาโดนัทให้ที่ทำงานตั้งไว้เมื่อไร	IN:GET_REMINDER_DATE_TIME
+อย่าตอบนะ	IN:IGNORE_CALL
+อย่ารับโทรศัพท์	IN:IGNORE_CALL
+อย่ารับโทรศัพท์ใน 15 นาทีหลังจากนี้	IN:IGNORE_CALL
+ไม่ต้องรับสายในวันนี้	IN:IGNORE_CALL
+แค่ไม่ต้องรับ	IN:IGNORE_CALL
+คุณช่วยหยุดการเล่นซ้ำเพลงของฉันทั้งหมดได้ไหม	IN:REPEAT_ALL_OFF_MUSIC
+อัลบั้มอะไร	IN:GET_TRACK_INFO_MUSIC
+ใครร้องเวอร์ชันนี้	IN:GET_TRACK_INFO_MUSIC
+ใครร้องเพลงนี้	IN:GET_TRACK_INFO_MUSIC
+วันที่เพลงนี้จะออก	IN:GET_TRACK_INFO_MUSIC
+นี่เพลงอะไร?	IN:GET_TRACK_INFO_MUSIC
+โหวตไม่ถูกใจให้เพลงนั้น	IN:DISLIKE_MUSIC
+ฉันไม่ชอบเพลงนี้	IN:DISLIKE_MUSIC
+เพลงนี้เป็นเพลงหนึ่งในสปอทิฟายที่ฉันเกลียด	IN:DISLIKE_MUSIC
+เอลวิสชนะไปกี่รางวัลแกรมมี่?	IN:GET_INFO_CONTACT
+เฮเลนคือใคร	IN:GET_INFO_CONTACT
+แดเนียลคือใคร	IN:GET_INFO_CONTACT
+Benedict Cumberbatch เล่นในภาพยนตร์เรื่องอะไรบ้าง	IN:GET_INFO_CONTACT
+ฉันรู้จัก Augie จากที่ไหน	IN:GET_INFO_CONTACT
+ไอดาเพิ่งเริ่มที่ไหนนะ	IN:GET_EMPLOYER
+เธอสอนที่มหาวิทยาลัยหรือเปล่า	IN:GET_EMPLOYER
+ไบรอันทำงานให้ใคร	IN:GET_EMPLOYER
+ปัจจุบันนี้จิมทำงานที่ Ferguson Construction หรือเปล่า	IN:GET_EMPLOYER
+พี่ชายของฉันทำงานที่ไหน	IN:GET_EMPLOYER
+แซมอายุเท่าไหร่	IN:GET_AGE
+มิแรนดาอายุเท่าไร?	IN:GET_AGE
+โจ แอนน์ อายุเท่าไร	IN:GET_AGE
+ทอมอายุเท่าไร?	IN:GET_AGE
+เขาอายุเท่าไร?	IN:GET_AGE
+สามีเก่าของฉันได้รับการว่าจ้างให้ทำงานปัจจุบันนี้เมื่อไหร่	IN:GET_EMPLOYMENT_TIME
+Mike ทำงานที่ American Express เมื่อไหร่	IN:GET_EMPLOYMENT_TIME
+บ็อบเริ่มทำงานที่ฟ็อกซ์ตั้งแต่เมื่อไหร่	IN:GET_EMPLOYMENT_TIME
+Katie เริ่มทำงานเป็นอาจารย์ที่ปรึกษาที่ UWM เมื่อไหร่	IN:GET_EMPLOYMENT_TIME
+บ้านไฮบิสคัสโฮมส์จ้างสตีเวนมานานเท่าไรแล้ว?	IN:GET_EMPLOYMENT_TIME
+ทอมเคยได้รับปริญญาด้านแพทยศาสตร์ไหม?	IN:GET_EDUCATION_DEGREE
+เบอร์นีซ สตาร์ เข้าเรียนที่พรินเซนตันปีไหน	IN:GET_EDUCATION_TIME
+Jessie เข้าเรียนที่บาร์ตันในปีอะไร	IN:GET_EDUCATION_TIME
+ลิลลี่เริ่มเรียนที่เวอร์จิเนีย เทคเมื่อไหร่	IN:GET_EDUCATION_TIME
+ดอว์นจบการศึกษาจากโรงเรียนสอนทำอาหารตอนไหน	IN:GET_EDUCATION_TIME
+ลิลี่เข้าเรียนที่ MDC เมื่อไหร่	IN:GET_EDUCATION_TIME
+ลินดาจบการศึกษาจากยูซีแอลซีใช่ไหม?	IN:GET_UNDERGRAD
+คาร์ล่าอยู่ที่ไหน?	IN:GET_LOCATION
+ที่อยู่ของลีวาย	IN:GET_LOCATION
+เนตอยู่ที่ไหน?	IN:GET_LOCATION
+จอห์นมาจากไหน	IN:GET_LOCATION
+Mila Kunis เกิดที่ประเทศใด	IN:GET_LOCATION
+ค้นหาเพื่อนของดาร์เรนและทอดด์	IN:GET_MUTUAL_FRIENDS
+แสดงเพื่อนที่เป็นเพื่อนกับทั้งมินิและฉัน	IN:GET_MUTUAL_FRIENDS
+วิธีทำ Ropa Vieja	IN:GET_RECIPES
+แนวคิดสลัดบาร์	IN:GET_RECIPES
+คุณทำมายองเนสยังไง	IN:GET_RECIPES
+สูตรคุกกี้น้ำตาล	IN:GET_RECIPES
+วิธีทำขนมปัง pita bread	IN:GET_RECIPES
+จับเวลาซ้ำ	IN:RESUME_TIMER
+จับเวลาต่อไป	IN:RESUME_TIMER
+ดำเนินเวลาต่อไปอีก 5 นาที	IN:RESUME_TIMER
+เริ่มการจับเวลาใหม่ตอนนี้	IN:RESUME_TIMER
+เริ่มเครื่องจับเวลาอีกครั้ง	IN:RESUME_TIMER
+ฝรั่งเศสมีรัฐบาลแบบไหน	IN:QUESTION_NEWS
+ใครชนะการอภิปรายเมื่อคืนนี้	IN:QUESTION_NEWS
+จะเกิดสุริยคราสเมื่อไหร่	IN:QUESTION_NEWS
+ทรัมป์ไปเที่ยวพักผ่อนมานานกี่วันแล้ว	IN:QUESTION_NEWS
+เลสเตอร์ โฮลต์เป็นผู้ประกาศของใคร	IN:QUESTION_NEWS
+เกือบจะเสร็จแล้วหรือยัง	IN:GET_TIMER
+ให้ฉันดูตัวจับเวลา	IN:GET_TIMER
+เครื่องจับเวลาไหนที่จะดัง	IN:GET_TIMER
+เครื่องจับเวลาพูดว่าอะไร?	IN:GET_TIMER
+สถานะของตัวจับเวลา	IN:GET_TIMER
+เพิ่มในตัวจับเวลาสปาเกตตี	IN:ADD_TIME_TIMER
+เพิ่มเวลานับถอยหลังอีก 1628 วินาที	IN:ADD_TIME_TIMER
+การจับเวลาเพิ่มรอบละ 12 นาที	IN:ADD_TIME_TIMER
+เพิ่ม 3 นาทีบนนาฬิกาจับเวลา	IN:ADD_TIME_TIMER
+เพิ่ม 34 วินาที ไปยังนาฬิกาจับเวลา	IN:ADD_TIME_TIMER
+รีเซ็ตเครื่องจับเวลากลับเป็นสิบนาที	IN:RESTART_TIMER
+ฉันจำเป็นต้องรีเซ็ตเครื่องจับเวลา	IN:RESTART_TIMER
+เริ่มการจับเวลาปัจจุบัน	IN:RESTART_TIMER
+เริ่มเครื่องจับเวลาอีกครั้ง	IN:RESTART_TIMER
+โปรดรีเซ็ตตัวจับเวลา	IN:RESTART_TIMER
+เปลี่ยนตัวจับเวลาการมาส์กผม	IN:UPDATE_TIMER
+เปลี่ยนนาฬิกาจับเวลาเตาอบของฉัน	IN:UPDATE_TIMER
+เปลี่ยนตัวจับเวลาเป็น 60 นาที	IN:UPDATE_TIMER
+เปลี่ยนนาฬิกาจับเวลาเป็น 12 นาที	IN:UPDATE_TIMER
+อัปเดตเครื่องจับเวลาของฉันให้เรียกว่าดื่มน้ำ	IN:UPDATE_TIMER
+กาแฟกันกระสุนคืออะไร	IN:GET_INFO_RECIPES
+ทำปลาในเตาอบยังไง	IN:GET_INFO_RECIPES
+น้ำส้มคั้น 8 ออนซ์มีแคลอรีเท่าไหร่	IN:GET_INFO_RECIPES
+อะไรที่เข้ากันได้ดีกับไก่	IN:GET_INFO_RECIPES
+คุณปรุงแซลมอนยังไง	IN:GET_INFO_RECIPES
+เปลี่ยนเวลาปลุกเป็น 5 ทุ่ม	IN:UPDATE_ALARM
+เพิ่ม 30 วินาทีไปยังนาฬิกาปลุก	IN:UPDATE_ALARM
+เปลี่ยนนาฬิกาปลุกเป็น 1:30 น.	IN:UPDATE_ALARM
+ฉันต้องการเปลี่ยนการปลุกเป็นบ่าย 3 โมง	IN:UPDATE_ALARM
+เปลี่ยนนาฬิกาปลุกของฉันเป็นตี 5	IN:UPDATE_ALARM
+ปิดนาฬิกาปลุกเดี๋ยวนี้	IN:SNOOZE_ALARM
+เลื่อนนาฬิกาปลุก	IN:SNOOZE_ALARM
+ขอเวลาอีกสักนาทีนึงนะ	IN:SNOOZE_ALARM
+เลื่อนไปในภายหลัง	IN:SNOOZE_ALARM
+เลื่อนการปลุกนี้	IN:SNOOZE_ALARM
+ลบ 3 นาที	IN:SUBTRACT_TIME_TIMER
+ทำให้เครื่องจับเวลาการทำงานของฉันสิ้นสุดเร็วขึ้น	IN:SUBTRACT_TIME_TIMER
+ลดตัวจับเวลา 10 นาที	IN:SUBTRACT_TIME_TIMER
+นำการจับเวลา 5 นาทีออกไป	IN:SUBTRACT_TIME_TIMER
+ลบ 3 นาทีจากตัวจับเวลาล่าสุด	IN:SUBTRACT_TIME_TIMER
+ในไข่มีโปรตีนไหม	IN:IS_TRUE_RECIPES
+มะเขือเทศเป็นผลไม้หรือไม่	IN:IS_TRUE_RECIPES
+มีถั่วลิสงในผัดไทยไหม	IN:IS_TRUE_RECIPES
+กากน้ำตาลเป็นมังสวิรัติไหม	IN:IS_TRUE_RECIPES
+คุณใช้แป้งข้าวโพดทำพายแอปเปิ้ลหรือเปล่า	IN:IS_TRUE_RECIPES
+หยุดเพลงชั่วคราว	IN:PAUSE_MUSIC
+โปรดหยุดที่แทร็กนี้เดี๋ยวนี้	IN:PAUSE_MUSIC
+สับเปลี่ยน	IN:START_SHUFFLE_MUSIC
+โปรดสับเปลี่ยนแทร็ก	IN:START_SHUFFLE_MUSIC
+สลับเพลงของฉัน	IN:START_SHUFFLE_MUSIC
+เล่นเพลงของฉันแบบสุ่ม	IN:START_SHUFFLE_MUSIC
+เปิดแพนโดราและเล่น Cloud Nine ในโหมดเล่นสุ่ม	IN:START_SHUFFLE_MUSIC
+โรลลิงสโตนส์ยังจัดทัวร์อยู่หรือเปล่า	IN:QUESTION_MUSIC
+เพลงยอดนิยมของ เทย์เลอร์ สวิฟต์ คืออะไร	IN:QUESTION_MUSIC
+เพลงใหม่ล่าสุดของนีโยคือเพลงอะไร	IN:QUESTION_MUSIC
+เพลงอะไรที่ฮิตที่สุดในฤดูร้อนที่แล้ว	IN:QUESTION_MUSIC
+พระอาทิตย์ตกดินเมื่อไร	IN:GET_SUNSET
+พระอาทิตย์ตกดินเมื่อไร	IN:GET_SUNSET
+เวลาเย็นก่อนค่ำในวันที่ 6 กุมภาพันธ์เป็นเวลาใด	IN:GET_SUNSET
+มันจะเริ่มมืดเมื่อไหร่	IN:GET_SUNSET
+พระอาทิตย์ตกเมื่อใดในฟิลาเดลเฟีย	IN:GET_SUNSET
+เล่นเพลงสุดท้ายอีกครั้ง	IN:PREVIOUS_TRACK_MUSIC
+เล่นเพลงสุดท้ายซ้ำ	IN:PREVIOUS_TRACK_MUSIC
+เล่นเพลงสุดท้ายของ ลูเธอร์ แวนดรอส ซ้ำ	IN:PREVIOUS_TRACK_MUSIC
+กลับไปที่เพลงก่อนหน้า	IN:PREVIOUS_TRACK_MUSIC
+ช่วยเล่นซ้ำเพลงล่าสุดให้หน่อย	IN:PREVIOUS_TRACK_MUSIC
+หยุดเพลง	IN:STOP_MUSIC
+หยุดเล่นเพลง	IN:STOP_MUSIC
+หยุดเล่นเพลง	IN:STOP_MUSIC
+หยุดเล่นเพลงนี้เมื่อผ่านไปครึ่งเพลง	IN:STOP_MUSIC
+ข้ามเพลง	IN:SKIP_TRACK_MUSIC
+กรุณาข้ามเพลงที่สอง	IN:SKIP_TRACK_MUSIC
+เปลี่ยนเป็นเพลงถัดไป	IN:SKIP_TRACK_MUSIC
+หากได้ยินเพลง despacito ฉันจะกดข้าม	IN:SKIP_TRACK_MUSIC
+ฉันอยากฟังเพลงต่อไป	IN:SKIP_TRACK_MUSIC
+หยุดนาฬิกาจับเวลานั้น	IN:PAUSE_TIMER
+หยุดตัวจับเวลาการอบ	IN:PAUSE_TIMER
+หยุดตัวจับเวลา	IN:PAUSE_TIMER
+ฉันต้องการหยุดตัวจับเวลา	IN:PAUSE_TIMER
+หยุดเครื่องจับเวลาปัจจุบัน	IN:PAUSE_TIMER
+เล่นเฟรนส์ อิน โลว์ เพลสซ้ำ ๆ	IN:LOOP_MUSIC
+สร้างสถานีใหม่	IN:CREATE_PLAYLIST_MUSIC
+สร้างเพลย์ลิสต์ชื่อว่า คาร์ดิโอ	IN:CREATE_PLAYLIST_MUSIC
+สร้างเพลย์ลิสต์สำหรับประเภท	IN:CREATE_PLAYLIST_MUSIC
+โปรดสร้างช่อง Godsmack	IN:CREATE_PLAYLIST_MUSIC
+ทำเพลย์ลิสต์เพลงของฮิลดาให้ฉันหน่อย	IN:CREATE_PLAYLIST_MUSIC
+ข้ามไปส่วนคอรัสเลย	IN:FAST_FORWARD_MUSIC
+ตั้งตัวจับเวลาการดื่มน้ำ	IN:CREATE_TIMER
+ตั้งการจับเวลาซักผ้า	IN:CREATE_TIMER
+เริ่มตัวจับเวลาถัดไป	IN:CREATE_TIMER
+เริ่มจับเวลาวิ่ง	IN:CREATE_TIMER
+ตั้งเวลาหนึ่งนาที	IN:CREATE_TIMER
+หยุดการจับเวลาเดี๋ยวนี้	IN:DELETE_TIMER
+ยกเลิกตัวจับเวลาล่าสุด	IN:DELETE_TIMER
+ยกเลิกการจับเวลา	IN:DELETE_TIMER
+หยุดเครื่องจับเวลา	IN:DELETE_TIMER
+ลบการจับเวลาตัวล่าสุด	IN:DELETE_TIMER
+ฉันไม่ต้องการฟังเพลย์ลิสต์นี้อีกต่อไป	IN:DELETE_PLAYLIST_MUSIC
+เล่นเพลงปัจจุบันต่อ	IN:RESUME_MUSIC
+เล่นเพลงนี้ต่อ	IN:RESUME_MUSIC
+ทำซ้ำเพลย์ลิสต์	IN:REPLAY_MUSIC
+เล่นเพลงนี้ซ้ำหน่อยสิ	IN:REPLAY_MUSIC
+เล่นเพลง 5 ซ้ำ	IN:REPLAY_MUSIC
+เล่นแทร็ก 8 อีกครั้ง	IN:REPLAY_MUSIC
+เล่นเพลงปัจจุบันซ้ำ	IN:REPLAY_MUSIC
+สำหรับเพลง ใช้ไทเดล	IN:SET_DEFAULT_PROVIDER_MUSIC
+ทำให้ iTunes เป็นผู้ให้บริการเพลงหลัก	IN:SET_DEFAULT_PROVIDER_MUSIC
+โปรดใช้ไอฮาร์ตเรดิโอสำหรับเพลงของฉัน	IN:SET_DEFAULT_PROVIDER_MUSIC
+เล่นเพลงผ่าน Amazon Music ทุกครั้ง	IN:SET_DEFAULT_PROVIDER_MUSIC
+กรุณาใช้ Apple สำหรับเพลง	IN:SET_DEFAULT_PROVIDER_MUSIC
+จอห์นโทรมาเมื่อไร	IN:GET_CALL_TIME
+แม่โทรหาฉันเมื่อไหร่	IN:GET_CALL_TIME
+ฉันรับสายจอห์นครั้งสุดท้ายเมื่อไหร่	IN:GET_CALL_TIME
+เมื่อวานนี้โอลิเวียโทรหาฉันเมื่อไร?	IN:GET_CALL_TIME
+เวลาจริงๆ ของการประชุมทางโทรศัพท์คือกี่โมง	IN:GET_CALL_TIME
+เลิกส่งข้อความไปยัง Elsie	IN:CANCEL_MESSAGE
+หยุดส่งข้อความวิดีโอให้แม็กแคนซี	IN:CANCEL_MESSAGE
+ยกเลิกการส่งข้อความผ่านวิดีโอถึงเคลย์ตัน	IN:CANCEL_MESSAGE
+Penelope Cruz พูดภาษาอะไรได้บ้าง	IN:GET_LANGUAGE
+ไปที่ Dinosaur Jr.	IN:SET_RSVP_YES
+ตอบว่าใช่สำหรับเทสต์ออฟซีแอตเทิล	IN:SET_RSVP_YES
+จะไปเฟียซ เออร์เจนซี ออฟ นาว เฟสทิวัล	IN:SET_RSVP_YES
+ตอบตกลงไปร่วมงาน เปิดตัวหนังสือ Insurgent Empire	IN:SET_RSVP_YES
+ทำเครื่องหมายว่าฉันจะไปงานแรก	IN:SET_RSVP_YES
+แชร์งานกิจกรรมแรกนั้นกับ Malia	IN:SHARE_EVENT
+ฉันชอบสิ่งนี้	IN:LIKE_MUSIC
+ฉันชอบอัลบั้มนี้ บันทึกไว้	IN:LIKE_MUSIC
+โปรดเล่นนาทีสุดท้ายซ้ำ	IN:REWIND_MUSIC
+เล่นซ้ำ 10 วินาทีล่าสุดของเพลง	IN:REWIND_MUSIC
+ย้อนกลับไป 10 วินาที	IN:REWIND_MUSIC
+ทำเครื่องหมายว่าฉันสนใจ Katja Petrowskaja: เรื่องราวของครอบครัวระหว่างความทรงจำและการลืมเลือน	IN:SET_RSVP_INTERESTED
+สนใจไปงานเปิดตัวหนังสือจักรวรรดิกบฏ	IN:SET_RSVP_INTERESTED
+เปลี่ยนสถานะของฉันในงาน Gardening for Biodiversity in a Climate Crisis เป็นบางทีอาจร่วม	IN:SET_RSVP_INTERESTED
+ตั้งสถานะของฉันเป็นบางทีอาจเข้าร่วมกิจกรรมที่สอง	IN:SET_RSVP_INTERESTED
+เปลี่ยนสถานะของฉันเป็น สนใจในงานกินดื่มเล่นลอสกาทอส	IN:SET_RSVP_INTERESTED
+เพิ่มเพลงลงในเพลย์ลิสต์เดือนพฤศจิกายน	IN:ADD_TO_PLAYLIST_MUSIC
+เพิ่มเพลง Waves ของ Kanye west ในเพลย์ลิสต์ของฉันที่ชื่อว่ารวมเพลง	IN:ADD_TO_PLAYLIST_MUSIC
+ใช้งานการโทรออกด้วยเสียง	IN:UPDATE_METHOD_CALL
+เลิกวิดีโอคอล	IN:UPDATE_METHOD_CALL
+โทรแบบวิดีโอเท่านั้น	IN:UPDATE_METHOD_CALL
+ฉันอยากเริ่มต้นใช้วิดีโอคอล	IN:UPDATE_METHOD_CALL
+ช่วยเปลี่ยนเป็นวิดีโอให้หน่อย	IN:UPDATE_METHOD_CALL
+ไมเคิล แจ็คสันเสียชีวิตเมื่อไร	IN:GET_LIFE_EVENT_TIME
+พระอาทิตย์จะขึ้นตอนกี่โมงในวันที่ 17 กันยายน	IN:GET_SUNRISE
+จะเช้าตอนกี่โมงในวันพฤหัสบดี	IN:GET_SUNRISE
+ไม่ไปเทศกาลฤดูใบไม้ร่วงของชาวประมง	IN:SET_RSVP_NO
+ไม่ไป Hillside Bar Trivia Night	IN:SET_RSVP_NO
+ไม่ไปที่บริกคอน	IN:SET_RSVP_NO
+ทำเครื่องหมายฉันว่าไม่ไป BrickCon	IN:SET_RSVP_NO
+ตอบ ไม่ ให้กับงานที่ 3	IN:SET_RSVP_NO
+หาเตือนความจำทั้งหมดของฉันที่ระบุตำแหน่งที่ตั้งเป็นบ้าน Tom แล้วเปลี่ยนเป็นบ้าน Rick แทน	IN:UPDATE_REMINDER_LOCATION
+มีใครส่งข้อความหาฉันบน Facebook ไหม	IN:GET_MESSAGE_CONTACT
+อย่าเล่นเพลงนี้อีก	IN:REMOVE_FROM_PLAYLIST_MUSIC
+อย่าเล่นเพลงนี้อีก	IN:REMOVE_FROM_PLAYLIST_MUSIC
+ห้ามเล่นเพลงใด ๆ โดย ลิล ยาช์ตี้	IN:REMOVE_FROM_PLAYLIST_MUSIC
+อย่าเล่นเพลงของศิลปินคนนั้นอีก	IN:REMOVE_FROM_PLAYLIST_MUSIC
+เพิ่มคริสในไปยังการแจ้งเตือนสำหรับพลูลีกการเดิมพันในเดือนนี้	IN:UPDATE_REMINDER
+เปลี่ยนเวลาการแจ้งเตือนสำหรับ การออกกำลังกาย	IN:UPDATE_REMINDER
+ฉันสามารถอัปเดตการแจ้งเตือนของฉันสำหรับการเดินทางสำหรับเดือนหน้าไปแคนาดาได้หรือไม่?	IN:UPDATE_REMINDER
+เพิ่มฟุตบอลให้กับกิจกรรมสำหรับเด็ก ๆ	IN:UPDATE_REMINDER_TODO
+เปลี่ยนการแจ้งเตือนอาหารกลางวันของวันเสาร์เพื่อบอกว่าอย่าลืมมันฝรั่ง	IN:UPDATE_REMINDER_TODO
+แบนด์ส ออน เดอะ เบย์ฟรอนต์ เริ่มเมื่อไร	IN:GET_DATE_TIME_EVENT
+บอกฉันเมื่องานอีเวนต์ที่สองเริ่มต้นขึ้น	IN:GET_DATE_TIME_EVENT
+บอกฉันเมื่องานที่สองเริ่มต้นขึ้น	IN:GET_DATE_TIME_EVENT
+Hocus Pocus เป็นงานแบบไหน	IN:GET_CATEGORY_EVENT
+มีเพื่อนของฉันคนไหนจะไป GeekCraft Expo ไหม	IN:GET_ATTENDEE_EVENT
+มีใครบ้างที่ฉันรู้จักจะไปเบร็กซิต: ว็อตส์ เน็กซ์?	IN:GET_ATTENDEE_EVENT
+บอกฉันทีว่าใครโทรมา	IN:GET_CALL_CONTACT
+ช่วยตรวจดูว่าใครโทรหาฉัน?	IN:GET_CALL_CONTACT
+คุณสามารถตรวจสอบเพื่อดูว่าใครกำลังโทรหาฉันตอนนี้ได้ไหม	IN:GET_CALL_CONTACT
+ค้นหาคริส แพรตต์ สหราชอาณาจักร	IN:PLAY_MEDIA
+คอร์ทนี่ย์ คาร์ดาเชี่ยนแต่งงานแล้วหรือยัง	IN:GET_LIFE_EVENT
