@@ -1,0 +1,568 @@
+zmień temperaturę na moim termostacie	ChangeTemperature
+zmień minimalną i maksymalną temperaturę na moim termostacie	ChangeTemperature
+sprawdź wilgotność	GetHumidity
+podaj wilgotność	GetHumidity
+pokaż wilgotność	GetHumidity
+sprawdź poziom wilgotności	GetHumidity
+podaj poziom wilgotności	GetHumidity
+jaką mamy tutaj temperaturę według mojego klimatyzacja?	GetTemperature
+jaką mam tutaj temperaturę według mojego klimatyzator?	GetTemperature
+jaka jest tutaj temperatura według mojego klima?	GetTemperature
+co mówi czujnik temperatury wewnętrznej przedpokoju?	GetTemperatureFromDevice
+co pokazuje czujnik temperatury wewnętrznej łazience?	GetTemperatureFromDevice
+sprawdź co mówi czujnik temperatury domowej kuchnii	GetTemperatureFromDevice
+sprawdź temperaturę czujnika temperatury pokojowej salonie	GetTemperatureFromDevice
+ustaw temperaturę między 23 a 29 stopnie na moim termostacie	SetTemperatureBetweenValues
+ustaw minimalną temperaturę na 23 stopnie na moim termostacie, a maksymalną na 29 stopni	SetTemperatureBetweenValues
+zmień minimalną i maksymalną temperaturę na moim termostacie sypialnii	SetTemperatureOnDevice
+zmień temperaturę na moim termostacie salonie	SetTemperatureOnDevice
+ustaw mój termostat na 22 stopnie	SetTemperatureToValue
+ustaw temperaturę na 24 stopnie na moim termostacie	SetTemperatureToValue
+ustaw temperaturę na moim termostacie na 23 stopnie	SetTemperatureToValue
+ustaw mój termostat kuchnii na 25 stopnie	SetTemperatureToValueOnDevice
+ustaw temperaturę na 27 stopnie na moim termostacie łazience	SetTemperatureToValueOnDevice
+ustaw temperaturę na moim termostacie przedpokoju na 26 stopnie	SetTemperatureToValueOnDevice
+zatrzymaj klimatyzator off	TurnOff
+wyłącz klimatyzacja	TurnOff
+zatrzymaj system chłodzenia	TurnOff
+uruchom system chłodzenia	TurnOn
+uruchom klima	TurnOn
+włącz klimatyzator	TurnOn
+co jest w moim harmonogramie czwartek	CheckCalendarOnDate
+nie powiadamiaj mnie gdy rozpocznie się wydarzenie w moim kalendarzu w lokalizacji pracy	NotNotifyOnEventInLocation
+nie powiadamiaj mnie gdy rozpocznie się spotkanie w moim kalendarzu w lokalizacji domu	NotNotifyOnEventInLocation
+nie powiadamiaj mnie gdy rozpocznie się spotkanie w moim kalendarzu w lokalizacji domu magdy	NotNotifyOnEventInLocation
+nie powiadamiaj mnie o rozpoczęciu wydarzenia w moim kalendarzu	NotNotifyOnEventStart
+nie powiadamiaj mnie gdy rozpocznie się spotkanie w moim kalendarzu	NotNotifyOnEventStart
+nie powiadamiaj mnie gdy rozpocznie się spotkanie w moim kalendarzu	NotNotifyOnEventStart
+powiadom mnie gdy rozpocznie się wydarzenie w moim kalendarzu w lokalizacji pracy	NotifyOnEventInLocation
+powiadom mnie gdy rozpocznie się spotkanie w moim kalendarzu w lokalizacji domu	NotifyOnEventInLocation
+powiadom mnie gdy rozpocznie się spotkanie w moim kalendarzu w lokalizacji domu magdy	NotifyOnEventInLocation
+powiadom mnie gdy rozpocznie się spotkanie w moim kalendarzu	NotifyOnEventStart
+powiadom mnie gdy rozpocznie się spotkanie w moim kalendarzu	NotifyOnEventStart
+powiadom mnie gdy rozpocznie się wydarzenie w moim kalendarzu	NotifyOnEventStart
+otwórz mój kalendarz	OpenCalendar
+pokaż mój kalendarz	OpenCalendar
+wyświetl mój kalendarz	OpenCalendar
+otwórz mój kontakt alfreda czech do edycji	EditContactWithName
+edytuj mój kontakt jacek chruszczewski	EditContactWithName
+zmień nazwę mojego kontaktu o numerze 671 304 866	EditContactWithNumber
+zmień numer mojego kontaktu norbert	EditNumberInContactWithName
+ustaw numer 520 390 563 w kontakcie małgorzata jako numer domowy	EditNumberInContactWithNameToNumberAndToType
+pokaż moje kontakty	OpenContacts
+wyświetl moje kontakty	OpenContacts
+otwórz moje kontakty	OpenContacts
+otwórz dane mojego kontaktu	OpenMyContact
+wyświetl informacje o moim kontakcie	OpenMyContact
+pokaż informacje o moim kontakcie	OpenMyContact
+wyświetl moje kontakty z e-mailem bartosz.majewski@gazeta.pl	ShowContactWithEmail
+wyświetl moje kontakty google z e-mailem radosław.kędzierski@gazeta.pl	ShowContactWithEmail
+pokaż moje kontakty z e-mailem stanisław.towarek@wpl.pl	ShowContactWithEmail
+otwórz moje kontakty z e-mailem benedykt11208@onet.pl	ShowContactWithEmail
+pokaż moje kontakty google z e-mailem janusz32171@wpl.pl	ShowContactWithEmail
+pokaż moje kontakty o nazwie grzegorz	ShowContactWithName
+wyświetl moje kontakty o nazwie mariusz mazur	ShowContactWithName
+otwórz moje kontakty o nazwie wiktor	ShowContactWithName
+utwórz nowy kontakt używając nazwy lidia szymański i dodaj numer 15 401 22 91	ShowContactWithNameAndWithNumberAndWithType
+utwórz nowy kontakt używając nazwy mania i nadaj mu numer 24 437 14 63	ShowContactWithNameAndWithNumberAndWithType
+utwórz nowy kontakt używając nazwy rudolf z numerem 583 417 380	ShowContactWithNameAndWithNumberAndWithType
+utwórz nowy kontakt używając nazwy anatol z numerem 775 231 918	ShowContactWithNameAndWithNumberAndWithType
+utwórz nowy kontakt używając nazwy krystian z numerem 82 546 33 53	ShowContactWithNameAndWithNumberAndWithType
+wyświetl moje kontakty z numerem telefonu 701 853 191	ShowContactWithNumber
+otwórz moje kontakty o numerze telefonu 13 721 41 95	ShowContactWithNumber
+pokaż moje kontakty z numerem telefonu 52 680 46 98	ShowContactWithNumber
+pokaż moje kontakty z numerem telefonu 768 632 816 i napisz email florian342@gazeta.pl	ShowContactWithNumberAndWithEmail
+wyświetl moje kontakty z numerem telefonu 518 164 740 i napisz email liliana11637@wpl.pl	ShowContactWithNumberAndWithEmail
+otwórz moje kontakty z numerem telefonu 576 645 717 i napisz email alfons25866@gazeta.pl	ShowContactWithNumberAndWithEmail
+pobierz z mojej skrzynki odbriorczej gmaila	OpenEmail
+pobierz z gmaila	OpenEmail
+pobierz z mojej skrzynki odbiorczej	OpenEmail
+odśwież skrzynkę odbiorczą gmaila	OpenEmail
+pobierz emaile z gmaila	OpenEmail
+odpowiedz na e-maila marzena chruszczewski	ReplyToEmailFromAddress
+wyślij e-mail	SendEmail
+wyślij do kogoś e-mail	SendEmail
+email do franciszka	SendEmailToAddress
+wyślij e-mail do edmund.wojciechowski@o2.pl używając mojego gmaila	SendEmailToAddress
+email do roman23640@wpl.pl o temacie spotkanie i treści cześć, co u ciebie słychać?	SendEmailToAddressWithSubjectAndWithMessage
+wyślij e-maila na adres emilian25590@gmail.com o temacie urodziny marka i treści w załączeniu przesyłam raport z ubiegłego tygodnia	SendEmailToAddressWithSubjectAndWithMessage
+wyślij e-maila na adres antoni.wyrzykowski@o2.pl o temacie musisz to zobaczyć i treści pamiętaj o tym że musimy to skończyć do piątku używając gmaila	SendEmailToAddressWithSubjectAndWithMessage
+sprawdź e-maile od emilian25590@gmail.com	ShowEmailFromSender
+sprawdź e-maile które dostałem od alfreda.majewski@onet.pl	ShowEmailFromSender
+sprawdź moje e-maile od agata.kalinowski@gazeta.pl	ShowEmailFromSender
+pobierz e-maile które dostałem od maciej199@onet.pl	ShowEmailFromSender
+sprawdź e-maile które otrzymałem od ilona1010@gmail.com	ShowEmailFromSender
+pobierz emaile które dotarły do mnie dziś	ShowEmailFromTime
+pobierz e-maile które otrzymałem wczoraj	ShowEmailFromTime
+pokaż mi e-maile które dotarły do mnie dwa dni temu	ShowEmailFromTime
+pokaż mi e-maile które otrzymałem osiem godzin temu	ShowEmailFromTime
+pobierz moje e-maile oznaczone jako spam	ShowEmailWithLabel
+pobierz moje e-maile które mają etykietkę ważne	ShowEmailWithLabel
+pokaż mi moje e-maile oznaczone jako ważne	ShowEmailWithLabel
+pokaż mi moje e-maile które mają etykietkę spam	ShowEmailWithLabel
+pobierz moje e-maile z etykietą spam	ShowEmailWithLabel
+pokaż mi e-maile o priorytecie ważne	ShowEmailWithPriority
+pobierz moje e-maile o temacie propozycja stabilizacji kursu obrotu	ShowEmailWithSubject
+pokaż mi moje e-maile z tematem seria telefonu	ShowEmailWithSubject
+utwórz nowy post na facebookuka	OpenFacebook
+stwórz nowy post na facebooka	OpenFacebook
+zupdateuj mój status na facebooku	OpenFacebook
+opublikuj coś na facebooku	OpenFacebook
+opublikuj zdjęcie na moim facebooku	PostPicture
+opublikuj zdjęcie na moim facebooku	PostPicture
+umieść zdjęcie na moim facebooku	PostPicture
+opublikuj zdjęcie na facebooku	PostPicture
+umieść zdjęcie na facebooku	PostPicture
+wyślij zdjęcie z podpisem ewa okopacz na facebooku	PostPictureWithCaption
+wyślij zdjęcie na facebooku z podpisem piękni !	PostPictureWithCaption
+opublikuj zdjęcie na facebooku z podpisem z mamą	PostPictureWithCaption
+opublikuj zdjęcie z podpisem z justinem bieberem na facebooku	PostPictureWithCaption
+opublikuj bit.ly/cqtNpby na facebooku	PostPictureWithUrl
+wyślij na facebooka cutt.ly/gJpzL2R	PostPictureWithUrl
+wyślij www.tinyurl.com/RwsE4r1 na facebooka	PostPictureWithUrl
+dodaj podpis do bit.ly/BFjbddV o treści damy radę i umieść na facebooku	PostPictureWithUrlAndWithCaption
+umieść shorturl.at/6L0RWEo na facebooku z podpisem klasyka pis	PostPictureWithUrlAndWithCaption
+wyślij bit.ly/RJR0aqL na facebooka z podpisem pełna zgoda	PostPictureWithUrlAndWithCaption
+dodaj podpis do www.tinyurl.com/IgCQSvc o treści wina pisu i wyślij na facebooka	PostPictureWithUrlAndWithCaption
+wyślij www.tinyurl.com/7wE53yt na mojego facebooka z podpisem aż tak źle	PostPictureWithUrlAndWithCaption
+zaktualizuj mój status na Facebooku na co to za ściema	PostStatus
+zaktualizuj moją stronę na facebooku o haha potem powtórka	PostStatus
+opublikuj wstyd mi za wpisy powyzej na facebooku	PostStatus
+opublikuj na facebooku post o treści za 4 lata z większością	PostStatus
+opublikuj nowy post o treści co za język taki nowoczesn ! na facebooku	PostStatus
+pokaż zdjęcia w albumie moja ukochana	ShowAlbumWithName
+pokaż zdjęcia w moim albumie kotki i pieski	ShowAlbumWithName
+wyświetl zdjęcia z mojego albumu komunia	ShowAlbumWithName
+pokaż zdjęcia z mojego albumu memy na facebooku	ShowAlbumWithName
+wyświetl zdjęcia z albumu wakacje	ShowAlbumWithName
+dodaj moją wagę w fitbitcie	AddWeight
+zanotuj moją wagę w fitbitcie	AddWeight
+zapisz moją wagę w fitbitcie	AddWeight
+powiadom mnie jeśli moja waga przekroczy 60 kg	NotifyOnWeight
+powiedz mi kiedy moja waga przekroczy 61 kg	NotifyOnWeight
+moje wymiary ciała w fitbit	ShowBMI
+moja waga w fitbit	ShowBMI
+podaj wymiary mojego ciała w fitbit	ShowBMI
+moje bmi w fitbit	ShowBMI
+podaj moj bmi w fitbit	ShowBMI
+krokomierz w fitbitcie	ShowSteps
+moje kroki w fitbitcie	ShowSteps
+pokaż moje kroki w fitbitcie	ShowSteps
+policz ilość kroków w fitbitcie	ShowSteps
+ilość kroków którą przeszedłem	ShowSteps
+kroki które zrobiłem 9 listopad	ShowStepsOnDate
+liczba kroków liczona 11 październik na fitbitcie	ShowStepsOnDate
+krokomierz dla 17 stycznia	ShowStepsOnDate
+ilość kroków którą zrobiłem 3 czerwca	ShowStepsOnDate
+ilość kroków na fitbitcie którą zrobiłem 17 lutego	ShowStepsOnDate
+utwórz plik dysku google	CreateFile
+utwórz plik na dysku google	CreateFile
+utwórz nowy plik o nazwie nowa lazienka na dysku google	CreateFileWithName
+utwórz plik na dysku google o nazwie mp3	CreateFileWithName
+otwórz mój przepis na kotlety do edycji na dysku google	OpenFileWithName
+wyświetl moje pliki na dysku google	OpenGdrive
+wyświetl moje pliki na dysku google	OpenGdrive
+wyświetl moje pliki na dysku google	OpenGdrive
+pokaż moje pliki na dysku google	OpenGdrive
+pokaż moje pliki na dysku google	OpenGdrive
+udostępnij mój faktura z bogumił.miller@gmail.com i daj zgodę na czytanie	ShareFileWithNameToAddress
+udostępnij mój readme z eleonora.grec@gmail.com i pozwól na odczyt i zapis	ShareFileWithNameToAddress
+udostępnij mój nowy plik 2 z adela.miller@o2.pl	ShareFileWithNameToAddress
+udostępnij mój nowy plik 4 z michalina.sikora@o2.pl i pozwól na edycję	ShareFileWithNameToAddress
+wyświetl listę moich plików dysku google utworzonych w zeszły weekend	ShowFilesFromTime
+wyświetl moje pliki na dysku google utworzone dziś	ShowFilesFromTime
+pokaż moje pliki na dysku google utworzone w tym miesiącu	ShowFilesFromTime
+pokaż moje pliki na dysku google zmodyfikowane 2 godziny temu	ShowFilesFromTime
+wyświetl moje pliki na dysku google zmodyfikowane wczoraj	ShowFilesFromTime
+pokaż moje pliki na dysku google większe niż 300 kb	ShowFilesWithSize
+pokaż moje pliki na dysku google mniejsze niż 720 kb	ShowFilesWithSize
+wypisz moje pliki na dysku google mniejsze niż 500 kb	ShowFilesWithSize
+wyświetl moje pliki na dysku google większe niż 1 mb	ShowFilesWithSize
+wyświetl moje pliki na dysku google większe niż 5 mb	ShowFilesWithSize
+wyświetl listę moich ulubionych plików na dysku google	ShowFilesWithStar
+wyświetl listę plików google które oznaczyłem gwiazdką	ShowFilesWithStar
+pokaż pliki z dysku google które oznaczyłem gwiazdką	ShowFilesWithStar
+wyświetl moje pliki google oznaczone gwiazdką	ShowFilesWithStar
+pokaż moje pliki google oznaczone gwiazdką	ShowFilesWithStar
+wyświetl listę moich plików na dysku google o typie png	ShowFilesWithType
+pokaż moje pliki gif na dyskugGoogle	ShowFilesWithType
+wyświetl moje pliki jpeg z dysku google	ShowFilesWithType
+wyświetl moje pliki mp3 na dysku google	ShowFilesWithType
+pokaż moje pliki na dysku google o typie mp4	ShowFilesWithType
+wyświetl listę moich plików z google które zostały ostatnio utworzone	ShowOldestFiles
+pokaż moje pliki z google które zostały ostatnio utworzone	ShowOldestFiles
+wyświetl moje pliki z google które zostały ostatnio utworzone	ShowOldestFiles
+wyświetl listę moich najstarszych plików z google drive	ShowOldestFiles
+pokaż moje najstarsze pliki na dysku google	ShowOldestFiles
+wyświetl listę moich plików na dysku google w kolejności alfabetycznej	SortReverseAlphabetical
+pokaż moje pliki na dysku google w kolejności alfabetycznej	SortReverseAlphabetical
+wyświetl moje pliki na dysku google w kolejności alfabetycznej	SortReverseAlphabetical
+pokaż moje pliki na dysku google w odwrotnej kolejności alfabetycznej	SortReverseAlphabetical
+wyświetl moje pliki na dysku google w odwrotnej kolejności alfabetycznej	SortReverseAlphabetical
+otwórz instagram	OpenInstagram
+otwórz mój instagram	OpenInstagram
+wyświetl dziesięć moich ostatnich zdjęc na instagramie	ShowLastNumberPictures
+pokaż mi 13 moich ostatnich zdjęc na instagramie	ShowLastNumberPictures
+wyświetl listę osiemnaście ostatnich zdjęć	ShowLastNumberPictures
+pokaż mi moje 10 najnowszych zdjęcć na instagramie	ShowLastNumberPictures
+wyświetl 13 moich ostatnich zdjęć	ShowLastNumberPictures
+pokaż mi moje ostatnie zdjęcia z instagrama	ShowPictures
+wyświetl moje zdjęcia na instagramie	ShowPictures
+pokaż moje zdjęcia na instagramie	ShowPictures
+pokaż mi moje zdjęcia na instagramie	ShowPictures
+wypisz moje zdjęcia na instagramie	ShowPictures
+wyświetl mój post z poniedziałek	ShowPicturesFromDate
+pokaż mój post z niedzielę	ShowPicturesFromDate
+pokaż mój post z wrześniu	ShowPicturesFromDate
+wyświetl mój post z styczniu	ShowPicturesFromDate
+wylistuj mój post z środę	ShowPicturesFromDate
+pokaż moje zdjęcia na instagramie z filtrem aden	ShowPicturesWithFilter
+pokaż moje zdjęcia na instagramie z zastosowanym filtrem gingham	ShowPicturesWithFilter
+wyświetl moje zdjęcia na instagramie z zastosowanym filtrem juno	ShowPicturesWithFilter
+wyświetl moje zdjęcia na instagramie z filtrem aden	ShowPicturesWithFilter
+wyświetl moje zdjęcia na instagramie z filtrem valencia	ShowPicturesWithFilter
+wyświetl moje zdjęcia na instagramie oznaczone jako pieski	ShowPicturesWithHashtag
+pokaż moje zdjęcia na instagramie oznaczone jako kuchnia	ShowPicturesWithHashtag
+wyświetl moje zdjęcia na instagramie oznaczone jako sesja	ShowPicturesWithHashtag
+pokaż mi moje zdjęcia na instagramie oznaczone tagiem polityka	ShowPicturesWithHashtag
+wyświetl listę zdjęć z instagrama wykonanych w bagdad	ShowPicturesWithLocation
+wyświetl listę zdjęć z instagrama wykonane w karaczi	ShowPicturesWithLocation
+wyświetl listę zdjęć z instagrama ze znacznikiem lokalizacji w nowy jork	ShowPicturesWithLocation
+wyświetl listę zdjęć z instagrama oznaczonych lokalizacją w ułan bator	ShowPicturesWithLocation
+wyświetl listę zdjęć z instagrama z tagiem geolokalizacji w świeradów-zdrój	ShowPicturesWithLocation
+powiadom mnie gdy strona wp.pl zostanie zaktualizowana	NotifyWhenPortalUpdates
+powiadom mnie o nowych wiadomościach na tvn24	NotifyWhenPortalUpdates
+powiadom mnie gdy sekcja sport na tvp info opublikuje nowy artykuł	NotifyWhenPortalUpdatesInSection
+przeczytaj tvn24	ShowNews
+otwórz wp.pl	ShowNews
+wiadomości na asz dziennik	ShowNews
+pokaż wiadomości z asz dziennik	ShowNews
+ostatnie wiadomości na times polska	ShowNews
+pokaż wp.pl w zakładce polityka	ShowNewsFromSection
+pokaż technologia z tvn24	ShowNewsFromSection
+zadzwoń na 112	CallEmergency
+zadzwoń po pogotowie	CallEmergency
+zadzwoń na numer alarmowy	CallEmergency
+zadzwoń na straż pożarną	CallEmergency
+zadzwoń na policję	CallEmergency
+napisz wiadomość do prosiaka	SMSToContact
+wyślij smsa do mamy	SMSToContact
+wyślij wiadomość do taty	SMSToContact
+wiadomość do ukochaniej	SMSToContact
+do męża wyślij wiadomość zadzwoń do mnie	SMSToContactWithMessage
+wyślij wiadomość do roman małecki o treści umówisz się ze mną	SMSToContactWithMessage
+wyślij wiadomość do karol niedzielski mówiącego co u ciebie słychać	SMSToContactWithMessage
+wyślij smsa do krystyna szewczyk zawierającego dobra	SMSToContactWithMessage
+wyślij smsa do daniel nowak o treści juz biegnę	SMSToContactWithMessage
+sprawdź moją skrzynkę sms	ShowSMS
+wyświetl moją skrzynkę sms	ShowSMS
+pokaż moją skrzynkę sms	ShowSMS
+pokaż historię mojego kanału na slacku	CheckLastMessages
+sprawdź historię mojego kanału na slacku	CheckLastMessages
+pokaż moje ostatnie wiadomości na slacku	CheckLastMessages
+sprawdź moje ostatnie wiadomości na slacku	CheckLastMessages
+otwórz wiadomości które otrzymałem na slacku od rajmund stawecki	CheckMessagesFromUser
+pokaż ostatnie wiadomości od teodozja na slacku	CheckMessagesFromUser
+sprawdź najnowsze wiadomości od wilhelm gawroński na slacku	CheckMessagesFromUser
+pokaż wiadomości które otrzymałem na slacku od angelika	CheckMessagesFromUser
+pokaż wiadomości slackowe z kanału curly girls polska który otrzymałem w ciągu ostatniej godziny	CheckMessagesInChannel
+sprawdź wiadomości slackowe z kanału wstęp do językoznastwa 2 rok który otrzymałem w ciągu ostatniej godziny	CheckMessagesInChannel
+sprawdź ostatnie wiadomości na slackowym kanale hiszpański 2020-2025	CheckMessagesInChannel
+sprawdź najnowsze wiadomości na slackowym kanale ai krafty	CheckMessagesInChannel
+sprawdź wiadomości które otrzymałem na slacku w kanale praca	CheckMessagesInChannel
+otwórz slacka	OpenSlack
+post na slacka	SendMessage
+zamieść na slacku	SendMessage
+wyślij na slacka	SendMessage
+wyślij dm na twitterze z wiadomością kobiety mają prawo decydować o swoim życiu i zdrowiu	SendMessage
+bw na twitterze mówiące kto wie może przed nami też piękne lata dwudzieste	SendMessage
+daj znać kanałowi impreza że jaki jest status	SendMessageToChannel
+prześlij musimy porozmawiać do wstęp do językoznastwa 2 rok na slack	SendMessageToChannel
+opublikuj juz do was idę na slackowym kanale joga	SendMessageToChannel
+prześlij wiadomość na slacka heheszki z informacją dobrze	SendMessageToChannel
+opublikuj wiadomość na slackowy na frontend z informacją przepraszam za spóżnienie	SendMessageToChannel
+wyślij do slackowego kanału impreza	SendPictureToChannel
+załącz zdjęcie na praca	SendPictureToChannel
+wyślij wiadomość na slackowy kanał ai krafty	SendPictureToChannel
+załącz zdjęcie na slackowy kanał frontend	SendPictureToChannel
+wyślij na slackowy kanał curly girls polska	SendPictureToChannel
+zamieść zdjęcie na slackowym kanale impreza z podpisem no hejka	SendPictureToChannelWithCaption
+opublikuj zdjęcie na slacku hiszpański 2020-2025 z podpisem śmieszne	SendPictureToChannelWithCaption
+zamieść zdjęcie na slacku curly girls polska z podpisem zobacz to	SendPictureToChannelWithCaption
+wyślij zdjęcie na slack heheszki z podpisem nie wierze	SendPictureToChannelWithCaption
+opublikuj zdjęcie na slackowym kanale wstęp do językoznastwa 2 rok z podpisem mam horom curke	SendPictureToChannelWithCaption
+zamieść bit.ly/RJR0aqL na slacku praca	SendPictureWithUrlToChannel
+wyślij bit.ly/5RTHNrw na slacku frontend	SendPictureWithUrlToChannel
+opublikuj bit.ly/C4VaE3L na slacku urodziny andrzeja	SendPictureWithUrlToChannel
+opublikuj www.tinyurl.com/vmkgtf9 na kanał joga	SendPictureWithUrlToChannel
+ustaw przeznaczenie kanału hiszpański 2020-2025 na bug fix na slack	SetPurposeOnChannel
+ustaw cel dla kanału wstęp do językoznastwa 2 rok na prezentacja	SetPurposeOnChannel
+ustaw mój stan na slacku na niedostępny	SetStatusAway
+odznacz mnie jako nieobecnego na slacku	SetStatusAway
+ustaw mnie jako niedostępny na slacku	SetStatusAway
+oznacz mnie jako nieobecnego na slacku	SetStatusAway
+ustaw temat kanału heheszki na party	SetTopicInChannel
+ustaw temat kanału slackowego ai krafty na impreza	SetTopicInChannel
+zrób ciszej	DecreaseVolume
+zcisz głośność	DecreaseVolume
+zmniejsz moją głośność	DecreaseVolume
+zcisz głośność głośnika	DecreaseVolume
+zcisz głośność mojego głośnika	DecreaseVolume
+zrób głośniej na moim głośniku	IncreaseVolume
+zrób głośniej	IncreaseVolume
+zwiększyć głośność głośnika	IncreaseVolume
+zwiększ głośność mojego głośnika	IncreaseVolume
+przywróc dzwięk na głośniku	MuteOff
+wyłącz wyciszenie głośnika	MuteOff
+wyłącz wyciszenie mojego głośnika	MuteOff
+cisza w głośniku	MuteOn
+zrób cicho głośnik	MuteOn
+ucisz ten głośnik	MuteOn
+wstrzymaj głośnik	MuteOn
+ucisz mój głośnik	MuteOn
+pomóż mi włącz na moim głośniku	TurnOnOrOff
+pomóż mi ustawić włącz na moim głośniku	TurnOnOrOff
+wciśnij wyłącz na moim głośniku	TurnOnOrOff
+wciśnij wyłącz na głośniku	TurnOnOrOff
+przełącz głośnik na włącz	TurnOnOrOff
+pomiń tę piosenkę	NextSong
+pomiń tę piosenkę	NextSong
+odtworz następny utwór	NextSong
+pomiń ten utwór	NextSong
+pomiń ten utwór	NextSong
+odtwórz muzykę na spotify	OpenSpotify
+użyj spotif aby odtworzyć jakąś muzykę	OpenSpotify
+otwórz spotify	OpenSpotify
+użyj spotify i odtwarzaj muzykę	OpenSpotify
+otwórz spotify i zagraj muzykę	OpenSpotify
+jeszcze raz tę piosenkę	Pause
+graj tę piosenkę	Pause
+zagraj tę piosenkę	Pause
+odtwórz mój spotify	Pause
+zatrzymaj tę piosenkę	Pause
+grak face stabber magic dirt w Spotify	PlayAlbumOfTypeByArtist
+zagraj pełnia data horde boy harsher	PlayAlbumOfTypeByArtist
+zagraj capsule losing contact łona	PlayAlbumOfTypeByArtist
+na spotify zagraj proto of the sun wykonawcy the flaming lips	PlayAlbumOfTypeByArtist
+zagraj black friday hymn to moisture od lingua ignota w Spotify	PlayAlbumOfTypeByArtist
+graj flow	PlaySong
+na spotify zagraj prosto w serce	PlaySong
+graj w paper boy w spotify	PlaySong
+zagraj neony mata	PlaySongByArtist
+zagraj touch that space natalia przybysz na spotify	PlaySongByArtist
+na spotify zagraj 74 od matmos	PlaySongByArtist
+wróć	PreviousSong
+wróć do ostatniej piosenki	PreviousSong
+wróć do ostatniego utworu	PreviousSong
+wykryj język who is this	DetectLanguage
+wykryj w jakim to języku kim jesteś	DetectLanguage
+zmień język na japoński	SetDefaultLanguage
+zmień język wyjściowy na rosyjski	SetDefaultLanguage
+ustaw język wyjściowy na fiński	SetDefaultLanguage
+ustaw język na czeski	SetDefaultLanguage
+zmień język tłumaczenia na polski	SetDefaultLanguage
+zmień język źródłowy na hawajski	SetDefaultLanguageToLanguage
+zmień język wprowadzania na mongolski	SetDefaultLanguageToLanguage
+ustaw język wprowadzania na włoski	SetDefaultLanguageToLanguage
+ustaw język źródłowy na francuski	SetDefaultLanguageToLanguage
+zmień domyślny język źródłowy na grecki	SetDefaultLanguageToLanguage
+tłumacz i hate you	TranslateText
+jakie jest tłumaczenie please leave	TranslateText
+tłumaczenie how are you	TranslateText
+śledź usiduspl na twitterze	FollowUser
+zostań obserwatorem kamil_miklaszew na twitterze	FollowUser
+zacznij śledzić slonka17	FollowUser
+pokaż moje ostatnie tweety	OpenTwitter
+wyświetl moje ostatnie tweety	OpenTwitter
+wyświetl tweety które stworzyłem	OpenTwitter
+pokaż tweety które wysłałem	OpenTwitter
+wyświetl moje tweety	OpenTwitter
+dm na twitterze do piotrus_pan9 mówiąca istnieje przypuszczenie że rząd wie o przypadku #koronowirus o którym nie informuje opinii publicznej	SendMessageToUser
+wyślij dm na twitterze do amilee110 mówiąc dobry artykuł do niedzielnej kawy dający szerszą perspektywę	SendMessageToUser
+wiadomość na twitterze do xsassyxo z informacją nadmierny strach przed #koronowirus i śmiercią to efekt rosnącej ateizacji	SendMessageToUser
+wyślij bezpośrednią wiadomość na twitterze do conectum_pl dawno się nie odzywałem wiadomo życie praca	SendMessageToUser
+bezpośrednia wiadomość na twitterze do pawelt_pl o treści najwyższy czas żeby skończyć z polską pogardy	SendMessageToUser
+tweety o prawdziwaprezydent	ShowTwittsWithHashtag
+pokaż tweety o rządpis na twitterze	ShowTwittsWithHashtag
+znajdź tweety o weather na twitterze	ShowTwittsWithHashtag
+pokaż tweety o airchina	ShowTwittsWithHashtag
+wyświetl tweety o prawdziwaprezydent	ShowTwittsWithHashtag
+przestań obserwować myntmag na twitterze	UnfollowUser
+przestań śledzić kmore na twitterze	UnfollowUser
+faza księżyca dla lokalizacji poznaniu	MoonphaseInLocation
+faza księżyca dla jokohama	MoonphaseInLocation
+faza księżyca dla lokalizacji sajgon w dniu 13 stycznia	MoonphaseInLocationOnDate
+faza księżyca dla bochnia w dniu piątku	MoonphaseInLocationOnDate
+pogoda	OpenWeather
+pogoda na zewnątrz	OpenWeather
+jaka jest pogoda	OpenWeather
+jaka jest pogoda	OpenWeather
+jaka jest pogoda na zewnątrz	OpenWeather
+wschód i zachód słońca dla lokalizacji surat	SunriseAndSunsetInLocation
+godziny wschodu i zachodu słońca w ahmadabad	SunriseAndSunsetInLocation
+godziny wschodu i zachodu słońca w wuhan w dniu jutra	SunriseAndSunsetInLocationAndOnDate
+wschód i zachód słońca dla lokalizacji durban w dniu następnej środy	SunriseAndSunsetInLocationAndOnDate
+czas wschodu słońca w bangalore	SunriseInLocation
+wschód słońca w bangkok	SunriseInLocation
+kiedy jest wschód słońca w lahaur	SunriseInLocation
+kiedy jest wschód słońca w olkusz	SunriseInLocation
+czas zachodu słońca w szczecinek	SunsetInLocation
+zachód słońca w chartum	SunsetInLocation
+kiedy jest zachód słońca w londyn	SunsetInLocation
+kiedy jest zachód słońca w moskwa	SunsetInLocation
+jak wygląda pogoda w łowicz	WeatherInLocation
+aktualna pogoda w toruń	WeatherInLocation
+pogoda w singapur	WeatherInLocation
+pogoda w bratysława	WeatherInLocation
+aktualna pogoda w świeradów-zdrój	WeatherInLocation
+jutrzejsza pogoda	WeatherTomorrow
+jaka będzie jutro pogoda	WeatherTomorrow
+jaka może być jutro pogoda	WeatherTomorrow
+jutro na pogoda	WeatherTomorrow
+jutrzejsza pogoda w buenos aires	WeatherTomorrowInLocation
+jutrzejsza pogoda dla radom	WeatherTomorrowInLocation
+aktualna jutrzejsza pogoda w bytom	WeatherTomorrowInLocation
+jak będzie jutro w berlin	WeatherTomorrowInLocation
+jutro pogoda w pusan	WeatherTomorrowInLocation
+wyszukaj w google	OpenEngine
+wyszukaj w bing	OpenEngine
+wyszukaj w duckduckgo	OpenEngine
+wyszukiwarka internetowa	OpenEngine
+wyszukiwarka google	OpenEngine
+wyszukiwarka obrazów google	SearchImagesOnEngine
+wyszukiwanie obrazka	SearchImagesOnEngine
+wyszukaj obrazy na duckduckgo	SearchImagesOnEngine
+wyszukaj obrazy na bing	SearchImagesOnEngine
+wyszukaj obrazy na google	SearchImagesOnEngine
+obrazy z cyfry rzymskie na google	SearchImagesWithTextOnEngine
+obrazy pasujące do francisco goya w google	SearchImagesWithTextOnEngine
+obrazy z wilk na bing	SearchImagesWithTextOnEngine
+obrazy z księgowa na duckduckgo	SearchImagesWithTextOnEngine
+obrazy pasujące do wentylator w bing	SearchImagesWithTextOnEngine
+obrazy w duckduckgo pasujące do szkoła podstawowa nr 2 o rozmiarze 800 x 600	SearchImagesWithTextOnEngineWithWidthAndWithHeight
+obrazy w bing pasujące do szafka łazienkowa o rozmiarze 800 x 600	SearchImagesWithTextOnEngineWithWidthAndWithHeight
+obrazy w google pasujące do dzuma o rozmiarze 800 x 600	SearchImagesWithTextOnEngineWithWidthAndWithHeight
+obrazy w duckduckgo pasujące do rick and morty wallpaper szersze niż 800	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition
+obrazy w bing pasujące do nike air max mniejsze niż 800	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition
+obrazy w duckduckgo pasujące do pepco gazetka mniejsze niż 800	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition
+obrazy w google pasujące do zdrowe żywienie mniejsze niż 800	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition
+obrazy w bing pasujące do rasy psow większe niż 800	SearchImagesWithTextOnEngineWithWidthAndWithHeightAndWithCondition
+witryny pasujące do onet	SearchText
+strony internetowe pasujące do castorama	SearchText
+strony na których znajdę ztm	SearchText
+wygoogluj pudelek	SearchTextOnEngine
+facebook w google	SearchTextOnEngine
+wp w duckduckgo	SearchTextOnEngine
+youtube w bing	SearchTextOnEngine
+zmień język tego artykułu na arabski	ChangeLanguageToLanguage
+zmień język na portugalski	ChangeLanguageToLanguage
+zmień język na rosyjski	ChangeLanguageToLanguage
+zmień język na hiszpański	ChangeLanguageToLanguage
+zmień język na ukraiński	ChangeLanguageToLanguage
+pobierz artykuł w formacie pdf	DownloadAsPdf
+pobierz stronę jako pdf	DownloadAsPdf
+pobierz ten artykuł jako pdf	DownloadAsPdf
+pobierz tę stronę jako pdf	DownloadAsPdf
+pobierz ten artykuł jako pdf	DownloadAsPdf
+przejdź do dziesiątego elementu ze spisu treści	GoToElementNumber
+przejdź do dziesiątego elementu w spisie treści	GoToElementNumber
+przejdź do dziesiątego punktu ze spisu treści	GoToElementNumber
+przejdź do dziesiątego punktu w spisie treści	GoToElementNumber
+przejdź do trzeciego elementu ze spisu treści	GoToElementNumber
+otwórz wikipedię	OpenWikipedia
+otwórz definicję w wikipedii	OpenWikipedia
+otwórz stronę wikipedii	OpenWikipedia
+losowy artykuł	RandomPage
+losowa strona	RandomPage
+pokaż losowy artykuł	RandomPage
+pokaż losową stronę	RandomPage
+surfuj	RandomPage
+strona w dół	ScrollDown
+scrolluj w dół	ScrollDown
+strona do góry	ScrollUp
+scrolluj do góry	ScrollUp
+otwarte restauracje	OpenRestaurants
+otwarte restauracje w okolicy	OpenRestaurants
+restauracje wciąż otwarte w okolicy	OpenRestaurants
+wciąż otwarte restauracje w pobliżu saska kępa	OpenRestaurantsInLocation
+restauracje wciąż otwarte w oliwa	OpenRestaurantsInLocation
+otwarte restauracje w pobliżu praga	OpenRestaurantsInLocation
+kuchnia tajskie	SearchByCategory
+kuchnia polskie w pobliżu	SearchByCategory
+japońskie kuchnia w pobliżu	SearchByCategory
+włoskie restauracje	SearchByCategory
+restauracje nepalskie w pobliżu	SearchByCategory
+włoskie restauracje w pobliżu łazarz	SearchByCategoryInLocation
+polskie restauracje w okolicy sopot	SearchByCategoryInLocation
+japońskie jedzenie w pobliżu wola	SearchByCategoryInLocation
+tajskie jedzenie w okolicy śródmieście	SearchByCategoryInLocation
+kawiarnię w pobliżu	SearchByQuery
+pub w okolicy	SearchByQuery
+bar na yelpie	SearchByQuery
+kebaba na oliwa na yelpie	SearchByQueryInLocation
+pub w śródmieście na yelpie	SearchByQueryInLocation
+pizzerię w okolicy stare miasto na yelpie	SearchByQueryInLocation
+subwaya na praga	SearchByQueryInLocation
+kawiarnię w saska kępa	SearchByQueryInLocation
+restauracje ocenione lepiej niż 5 gwiazdek	SearchByRating
+pobliskie restauracje z oceną co najmniej 4	SearchByRating
+restauracje z 5 gwiazdkami na yelpie	SearchByRating
+restauracje z 4 gwiazdkami	SearchByRating
+5 gwiazdkowe restauracje w praga na yelpie	SearchByRatingInLocation
+restauracje ocenione wyżej niż 5 gwiazdek na saska kępa	SearchByRatingInLocation
+4 gwiazdkowe restauracje w stare miasto	SearchByRatingInLocation
+5 gwiazdkowe restauracje w okolicy wawel na yelpie	SearchByRatingInLocation
+restauracje w pobliżu z oceną co najmniej 4 w pobliżu oliwa	SearchByRatingInLocation
+restauracje w pobliżu ocenione przez co najmniej 100 osób	SearchByReviewCount
+restauracje w okolicy ocenione przez co najmniej 1000 osób	SearchByReviewCount
+restauracje w okolicy ocenione przez co najmniej 10000 użytkowników	SearchByReviewCount
+restauracje w pobliżu ocenione przez co najmniej 1000 użytkowników	SearchByReviewCount
+restauracje w pobliżu sopot ocenione przez co najmniej 1000 osób	SearchByReviewCountInLocation
+restauracje w pobliżu łazarz ocenione przez co najmniej 10000 osób	SearchByReviewCountInLocation
+restauracje w okolicy wola ocenione przez co najmniej 100 osób	SearchByReviewCountInLocation
+restauracje w okolicy śródmieście ocenione przez co najmniej 10000 osób	SearchByReviewCountInLocation
+restauracje wokół wawel	SearchInLocation
+restauracje w pobliżu stare miasto	SearchInLocation
+restauracje obok praga	SearchInLocation
+restauracja	SearchRestaurant
+najbliższa restauracja	SearchRestaurant
+najbliższa restauracja w okolicy	SearchRestaurant
+restauracja w okolicy	SearchRestaurant
+restauracja w pobliżu	SearchRestaurant
+poszukaj kanału youtube bad boys blue	FindChannelWithQuery
+wyszukaj kanał youtube jestem sobie przedszkolaczek piosenka dla dzieci	FindChannelWithQuery
+poszukaj kanałów bor crew na youtube	FindChannelWithQuery
+poszukaj kanałów pasujących do f1 na youtube	FindChannelWithQuery
+znajdź kanał na youtube young policja	FindChannelWithQuery
+poszukaj na youtube filmu pasującego do manchester city vs tottenham	FindQuery
+poszukaj filmu na youtube sonic trailer	FindQuery
+poszukaj wideo ajax tottenham na youtube	FindQuery
+znajdź film chelsea eintracht frankfurt na youtube	FindQuery
+wyszukaj film nikon d750 na youtube	FindQuery
+pokaż film opublikowany przez rosanna pansino pasujący do traktory na youtube	FindQueryOnChannel
+pokaż mi filmy opublikowane przez primitive technology pasujące do doki doki literature club na youtube	FindQueryOnChannel
+pokaż filmy z władek beauty boy pasujące do days gone na youtube	FindQueryOnChannel
+pokaż mi film z stanowo pasujący do autocentrum na youtube	FindQueryOnChannel
+pokaż wideo z gordon ramsay pasujące do napraw na youtube	FindQueryOnChannel
+powiadom mnie gdy pojawi się nowy film z kanałów youtube które obserwuję	NotifyOnNewFromFollowing
+powiadom mnie gdy easy german opublikuje nowy film na youtube	NotifyonNewOnChannel
+powiadom mnie gdy kexp prześle film na youtube	NotifyonNewOnChannel
+powiadom mnie gdy pojawi się nowy film z kanału tensorflow na youtube	NotifyonNewOnChannel
+otwórz yt	OpenYT
+otwórz youtube	OpenYT
+odtwarzaj kanały youtube z kategorią kuchnia i zdrowie	ShowChannelWithCategory
+wyświetl muzyka kanały youtube	ShowChannelWithCategory
+pokaż kanały polityka na youtube	ShowChannelWithCategory
+odtwarzaj kanały gry na youtube	ShowChannelWithCategory
+odtwarzaj youtube kanały moda i uroda	ShowChannelWithCategory
+odtwarzaj kanał pitchfork w youtube	ShowChannelWithName
+pokaż kanał z krwi i kości	ShowChannelWithName
+pokaż kanał władek beauty boy w youtube	ShowChannelWithName
+odtwarzaj kanał gordon ramsay na youtube	ShowChannelWithName
+odtwarzaj filmy z rosanna pansino na youtube	ShowChannelWithName
+pokaż kanały youtube które obserwuję	ShowFollowing
+pokaż kanały które obserwuję na youtube	ShowFollowing
+pokaż mi kanały youtube które obserwuję	ShowFollowing
+pokaż mi kanały które obserwuję na youtube	ShowFollowing
+pokaż mi kanały które subskrybuję na youtube	ShowSubscribedChannels
+pokaż kanały które subskrybuję na youtube	ShowSubscribedChannels
